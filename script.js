@@ -3,7 +3,7 @@ let map = document.querySelector("#map");
 let files = [
 "20201024_153359.gpx",
 "20201102_143231_R.gpx",
-//brighton trip "20201104_124059.gpx", 
+//brighton trip "20201104_124059.gpx",
 "20201129_155500.gpx",
 "20210123_150533.gpx",
 "20210125_164819.gpx",
@@ -21,7 +21,6 @@ let files = [
 "20210228_141339C.gpx"
 ];
 
-
 function tostr(x){
   let output = 'https://gpxstudio.github.io/?state=%7B%22urls%22:%5B'
   for (let file of x) {
@@ -31,6 +30,5 @@ function tostr(x){
   mapsrc = mapsrc + '%5D%7D&embed'
   return mapsrc;
 }
-
 
 map.src = tostr(files);
