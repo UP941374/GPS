@@ -31,7 +31,7 @@ let files = [
 
 
 function tostr(x){
-  let output = 'https://gpx",studio.github.io/?state=%7B%22urls%22:%5B'
+  let output = 'https://gpxstudio.github.io/?state=%7B%22urls%22:%5B'
   for (let file of x) {
     output = output + "%22https%3A%2F%2Fraw.githubusercontent.com%2FUP941374%2FGPS%2Fmain%2FGPX%2FUKRAINE2019%2F" + file + "%22,"
   }
