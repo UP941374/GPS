@@ -1,3 +1,5 @@
+console.log("updated 27/03/2024");
+
 let map = document.querySelector("#map");
 
 let files = [
