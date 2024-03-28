@@ -1,2238 +1,2270 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="GPS Track Editor" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gte="http://www.gpstrackeditor.com/xmlschemas/General/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" targetNamespace="http://www.topografix.com/GPX/1/1" elementFormDefault="qualified" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="GPS Track Editor">
 <metadata>
-	<name>20201102_143231_R.gpx</name>
+    <name>20201102_143231_R</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
 </metadata>
 <trk>
-	<name>20201102_143231.gpx 1</name>
-	<desc>Length: 0.226 km (0.14 mi)</desc>
-	    <extensions>
+    <name>20201102_143231.gpx 1</name>
+    <type>Cycling</type>
+    <extensions>
         <gpx_style:line>
         <color>0000ff</color>
-        <opacity>1</opacity>
+        <opacity>0.7</opacity>
         <weight>5</weight>
         </gpx_style:line>
     </extensions>
-	<trkseg>
-		<trkpt lat="50.793808" lon="-1.070912">
-			<ele>64.00</ele>
-			<time>2021-02-22T11:24:00Z</time>
-		</trkpt>
-		<trkpt lat="50.793835" lon="-1.070837">
-			<ele>58.00</ele>
-			<time>2021-02-22T11:24:05.45Z</time>
-		</trkpt>
-		<trkpt lat="50.793810" lon="-1.070770">
-			<ele>55.00</ele>
-			<time>2021-02-22T11:24:10.35Z</time>
-		</trkpt>
-		<trkpt lat="50.793797" lon="-1.070448">
-			<ele>52.00</ele>
-			<time>2021-02-22T11:24:30.78Z</time>
-		</trkpt>
-		<trkpt lat="50.793667" lon="-1.070133">
-			<ele>49.00</ele>
-			<time>2021-02-22T11:24:54.53Z</time>
-		</trkpt>
-		<trkpt lat="50.793380" lon="-1.070067">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:25:23.53Z</time>
-		</trkpt>
-		<trkpt lat="50.793170" lon="-1.070129">
-			<ele>33.00</ele>
-			<time>2021-02-22T11:25:44.89Z</time>
-		</trkpt>
-		<trkpt lat="50.792980" lon="-1.070136">
-			<ele>29.00</ele>
-			<time>2021-02-22T11:26:03.90Z</time>
-		</trkpt>
-		<trkpt lat="50.792778" lon="-1.070188">
-			<ele>25.00</ele>
-			<time>2021-02-22T11:26:24.37Z</time>
-		</trkpt>
-		<trkpt lat="50.792736" lon="-1.070235">
-			<ele>26.00</ele>
-			<time>2021-02-22T11:26:29.49Z</time>
-		</trkpt>
-		<trkpt lat="50.792380" lon="-1.070335">
-			<ele>27.00</ele>
-			<time>2021-02-22T11:27:05.64Z</time>
-		</trkpt>
-		<trkpt lat="50.792206" lon="-1.070287">
-			<ele>30.00</ele>
-			<time>2021-02-22T11:27:23.31Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#1</gte:name>
-			<gte:color>#00ce00</gte:color>
-		</extensions>
-	</trkseg>
+    <trkseg>
+    <trkpt lat="50.793808" lon="-1.070912">
+        <ele>64.0</ele>
+        <time>2021-02-22T11:24:00.000Z</time>
+    </trkpt>
+    <trkpt lat="50.793835" lon="-1.070837">
+        <ele>58.0</ele>
+        <time>2021-02-22T11:24:05.450Z</time>
+    </trkpt>
+    <trkpt lat="50.79381" lon="-1.07077">
+        <ele>55.0</ele>
+        <time>2021-02-22T11:24:10.350Z</time>
+    </trkpt>
+    <trkpt lat="50.793797" lon="-1.070448">
+        <ele>52.0</ele>
+        <time>2021-02-22T11:24:30.780Z</time>
+    </trkpt>
+    <trkpt lat="50.793667" lon="-1.070133">
+        <ele>49.0</ele>
+        <time>2021-02-22T11:24:54.530Z</time>
+    </trkpt>
+    <trkpt lat="50.79338" lon="-1.070067">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:25:23.530Z</time>
+    </trkpt>
+    <trkpt lat="50.79317" lon="-1.070129">
+        <ele>33.0</ele>
+        <time>2021-02-22T11:25:44.890Z</time>
+    </trkpt>
+    <trkpt lat="50.79298" lon="-1.070136">
+        <ele>29.0</ele>
+        <time>2021-02-22T11:26:03.900Z</time>
+    </trkpt>
+    <trkpt lat="50.792778" lon="-1.070188">
+        <ele>25.0</ele>
+        <time>2021-02-22T11:26:24.370Z</time>
+    </trkpt>
+    <trkpt lat="50.792736" lon="-1.070235">
+        <ele>26.0</ele>
+        <time>2021-02-22T11:26:29.490Z</time>
+    </trkpt>
+    <trkpt lat="50.79238" lon="-1.070335">
+        <ele>27.0</ele>
+        <time>2021-02-22T11:27:05.640Z</time>
+    </trkpt>
+    <trkpt lat="50.792206" lon="-1.070287">
+        <ele>30.0</ele>
+        <time>2021-02-22T11:27:23.310Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 2</name>
-	<desc>Length: 9.732 m (31.93 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.792206" lon="-1.070287">
-			<ele>30.00</ele>
-			<time>2021-02-22T11:27:24.21Z</time>
-		</trkpt>
-		<trkpt lat="50.792130" lon="-1.070320">
-			<ele>30.00</ele>
-			<time>2021-02-22T11:27:32.96Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#2</gte:name>
-			<gte:color>#ffb0ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 2</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.792206" lon="-1.070287">
+        <ele>30.0</ele>
+        <time>2021-02-22T11:27:24.210Z</time>
+    </trkpt>
+    <trkpt lat="50.79213" lon="-1.07032">
+        <ele>30.0</ele>
+        <time>2021-02-22T11:27:32.960Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 3</name>
-	<desc>Length: 13.14 m (43.11 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#3</gte:name>
-			<gte:color>#4eb4ce</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 7</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.791965" lon="-1.070205">
+        <ele>54.0</ele>
+        <time>2021-02-22T11:28:46.080Z</time>
+    </trkpt>
+    <trkpt lat="50.791893" lon="-1.069515">
+        <ele>52.0</ele>
+        <time>2021-02-22T11:29:30.300Z</time>
+    </trkpt>
+    <trkpt lat="50.79194" lon="-1.069285">
+        <ele>50.0</ele>
+        <time>2021-02-22T11:29:45.550Z</time>
+    </trkpt>
+    <trkpt lat="50.791927" lon="-1.069217">
+        <ele>49.0</ele>
+        <time>2021-02-22T11:29:50.090Z</time>
+    </trkpt>
+    <trkpt lat="50.791954" lon="-1.069063">
+        <ele>50.0</ele>
+        <time>2021-02-22T11:30:00.190Z</time>
+    </trkpt>
+    <trkpt lat="50.791912" lon="-1.068492">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:30:36.530Z</time>
+    </trkpt>
+    <trkpt lat="50.79186" lon="-1.06811">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:31:01.240Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 4</name>
-	<desc>Length: 7.623 m (25.01 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#4</gte:name>
-			<gte:color>#b69c36</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 8</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79186" lon="-1.06811">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:31:02.140Z</time>
+    </trkpt>
+    <trkpt lat="50.791817" lon="-1.068021">
+        <ele>46.0</ele>
+        <time>2021-02-22T11:31:09.220Z</time>
+    </trkpt>
+    <trkpt lat="50.79173" lon="-1.067578">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:31:38.530Z</time>
+    </trkpt>
+    <trkpt lat="50.791737" lon="-1.067487">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:31:44.340Z</time>
+    </trkpt>
+    <trkpt lat="50.791676" lon="-1.067092">
+        <ele>45.0</ele>
+        <time>2021-02-22T11:32:10.000Z</time>
+    </trkpt>
+    <trkpt lat="50.79152" lon="-1.066778">
+        <ele>45.0</ele>
+        <time>2021-02-22T11:32:35.270Z</time>
+    </trkpt>
+    <trkpt lat="50.791508" lon="-1.066692">
+        <ele>47.0</ele>
+        <time>2021-02-22T11:32:40.800Z</time>
+    </trkpt>
+    <trkpt lat="50.791435" lon="-1.066558">
+        <ele>46.0</ele>
+        <time>2021-02-22T11:32:51.990Z</time>
+    </trkpt>
+    <trkpt lat="50.791397" lon="-1.066342">
+        <ele>47.0</ele>
+        <time>2021-02-22T11:33:06.160Z</time>
+    </trkpt>
+    <trkpt lat="50.791367" lon="-1.066279">
+        <ele>47.0</ele>
+        <time>2021-02-22T11:33:11.170Z</time>
+    </trkpt>
+    <trkpt lat="50.79135" lon="-1.066054">
+        <ele>45.0</ele>
+        <time>2021-02-22T11:33:25.470Z</time>
+    </trkpt>
+    <trkpt lat="50.791298" lon="-1.065906">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:33:36.200Z</time>
+    </trkpt>
+    <trkpt lat="50.79126" lon="-1.065432">
+        <ele>45.0</ele>
+        <time>2021-02-22T11:34:06.370Z</time>
+    </trkpt>
+    <trkpt lat="50.791267" lon="-1.065263">
+        <ele>46.0</ele>
+        <time>2021-02-22T11:34:17.110Z</time>
+    </trkpt>
+    <trkpt lat="50.791237" lon="-1.065107">
+        <ele>45.0</ele>
+        <time>2021-02-22T11:34:27.380Z</time>
+    </trkpt>
+    <trkpt lat="50.791245" lon="-1.065032">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:34:32.190Z</time>
+    </trkpt>
+    <trkpt lat="50.791203" lon="-1.064796">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:34:47.730Z</time>
+    </trkpt>
+    <trkpt lat="50.79121" lon="-1.064636">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:34:57.870Z</time>
+    </trkpt>
+    <trkpt lat="50.791172" lon="-1.064475">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:35:08.710Z</time>
+    </trkpt>
+    <trkpt lat="50.79119" lon="-1.064314">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:35:19.050Z</time>
+    </trkpt>
+    <trkpt lat="50.79116" lon="-1.063843">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:35:48.980Z</time>
+    </trkpt>
+    <trkpt lat="50.791187" lon="-1.063674">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:35:59.970Z</time>
+    </trkpt>
+    <trkpt lat="50.791122" lon="-1.062693">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:37:02.350Z</time>
+    </trkpt>
+    <trkpt lat="50.791092" lon="-1.062549">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:37:11.950Z</time>
+    </trkpt>
+    <trkpt lat="50.791096" lon="-1.062295">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:37:28.000Z</time>
+    </trkpt>
+    <trkpt lat="50.791004" lon="-1.061972">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:37:50.360Z</time>
+    </trkpt>
+    <trkpt lat="50.791" lon="-1.061886">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:37:55.860Z</time>
+    </trkpt>
+    <trkpt lat="50.79094" lon="-1.061673">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:38:10.580Z</time>
+    </trkpt>
+    <trkpt lat="50.790844" lon="-1.061486">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:38:25.790Z</time>
+    </trkpt>
+    <trkpt lat="50.790806" lon="-1.060921">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:39:01.720Z</time>
+    </trkpt>
+    <trkpt lat="50.790768" lon="-1.060867">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:39:06.840Z</time>
+    </trkpt>
+    <trkpt lat="50.790745" lon="-1.060624">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:39:22.340Z</time>
+    </trkpt>
+    <trkpt lat="50.790672" lon="-1.060416">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:39:37.400Z</time>
+    </trkpt>
+    <trkpt lat="50.790646" lon="-1.060258">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:39:47.700Z</time>
+    </trkpt>
+    <trkpt lat="50.79058" lon="-1.060154">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:39:57.020Z</time>
+    </trkpt>
+    <trkpt lat="50.790485" lon="-1.059686">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:40:28.140Z</time>
+    </trkpt>
+    <trkpt lat="50.790432" lon="-1.059536">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:40:38.970Z</time>
+    </trkpt>
+    <trkpt lat="50.790367" lon="-1.059121">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:41:06.020Z</time>
+    </trkpt>
+    <trkpt lat="50.790314" lon="-1.058974">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:41:16.690Z</time>
+    </trkpt>
+    <trkpt lat="50.79025" lon="-1.0586">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:41:41.180Z</time>
+    </trkpt>
+    <trkpt lat="50.79022" lon="-1.058526">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:41:46.740Z</time>
+    </trkpt>
+    <trkpt lat="50.790188" lon="-1.058128">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:42:12.110Z</time>
+    </trkpt>
+    <trkpt lat="50.790203" lon="-1.058046">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:42:17.550Z</time>
+    </trkpt>
+    <trkpt lat="50.79003" lon="-1.056773">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:43:39.840Z</time>
+    </trkpt>
+    <trkpt lat="50.790016" lon="-1.056744">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:43:42.130Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 5</name>
-	<desc>Length: 25.06 m (82.22 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#5</gte:name>
-			<gte:color>#00ffff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 9</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790016" lon="-1.056744">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:43:43.030Z</time>
+    </trkpt>
+    <trkpt lat="50.789986" lon="-1.056688">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:43:47.700Z</time>
+    </trkpt>
+    <trkpt lat="50.78995" lon="-1.056371">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:44:08.040Z</time>
+    </trkpt>
+    <trkpt lat="50.789963" lon="-1.056285">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:44:13.640Z</time>
+    </trkpt>
+    <trkpt lat="50.78993" lon="-1.055949">
+        <ele>37.0</ele>
+        <time>2021-02-22T11:44:35.110Z</time>
+    </trkpt>
+    <trkpt lat="50.7899" lon="-1.055886">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:44:40.100Z</time>
+    </trkpt>
+    <trkpt lat="50.789864" lon="-1.05541">
+        <ele>37.0</ele>
+        <time>2021-02-22T11:45:10.430Z</time>
+    </trkpt>
+    <trkpt lat="50.789883" lon="-1.055326">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:45:16.060Z</time>
+    </trkpt>
+    <trkpt lat="50.789925" lon="-1.055263">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:45:21.830Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 6</name>
-	<desc>Length: 8.215 m (26.95 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#6</gte:name>
-			<gte:color>#1cff1c</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 10</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.789925" lon="-1.055263">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:45:22.730Z</time>
+    </trkpt>
+    <trkpt lat="50.7899" lon="-1.055106">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:45:32.960Z</time>
+    </trkpt>
+    <trkpt lat="50.790104" lon="-1.054899">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:45:57.200Z</time>
+    </trkpt>
+    <trkpt lat="50.7902" lon="-1.054877">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:46:06.900Z</time>
+    </trkpt>
+    <trkpt lat="50.790215" lon="-1.054718">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:46:17.060Z</time>
+    </trkpt>
+    <trkpt lat="50.790337" lon="-1.054566">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:46:32.600Z</time>
+    </trkpt>
+    <trkpt lat="50.790382" lon="-1.054346">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:46:47.220Z</time>
+    </trkpt>
+    <trkpt lat="50.790386" lon="-1.05402">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:47:07.830Z</time>
+    </trkpt>
+    <trkpt lat="50.790413" lon="-1.053865">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:47:17.990Z</time>
+    </trkpt>
+    <trkpt lat="50.79039" lon="-1.05346">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:47:43.730Z</time>
+    </trkpt>
+    <trkpt lat="50.790405" lon="-1.053382">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:47:48.880Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 7</name>
-	<desc>Length: 172.6 m (566.3 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.791965" lon="-1.070205">
-			<ele>54.00</ele>
-			<time>2021-02-22T11:28:46.08Z</time>
-		</trkpt>
-		<trkpt lat="50.791893" lon="-1.069515">
-			<ele>52.00</ele>
-			<time>2021-02-22T11:29:30.30Z</time>
-		</trkpt>
-		<trkpt lat="50.791940" lon="-1.069285">
-			<ele>50.00</ele>
-			<time>2021-02-22T11:29:45.55Z</time>
-		</trkpt>
-		<trkpt lat="50.791927" lon="-1.069217">
-			<ele>49.00</ele>
-			<time>2021-02-22T11:29:50.09Z</time>
-		</trkpt>
-		<trkpt lat="50.791954" lon="-1.069063">
-			<ele>50.00</ele>
-			<time>2021-02-22T11:30:00.19Z</time>
-		</trkpt>
-		<trkpt lat="50.791912" lon="-1.068492">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:30:36.53Z</time>
-		</trkpt>
-		<trkpt lat="50.791860" lon="-1.068110">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:31:01.24Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#7</gte:name>
-			<gte:color>#d26ceb</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 11</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790386" lon="-1.053222">
+        <ele>44.0</ele>
+        <time>2021-02-22T11:48:04.790Z</time>
+    </trkpt>
+    <trkpt lat="50.79039" lon="-1.053069">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:48:14.490Z</time>
+    </trkpt>
+    <trkpt lat="50.790447" lon="-1.052831">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:48:30.550Z</time>
+    </trkpt>
+    <trkpt lat="50.79044" lon="-1.052709">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:48:40.940Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 8</name>
-	<desc>Length: 0.845 km (0.525 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.791860" lon="-1.068110">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:31:02.14Z</time>
-		</trkpt>
-		<trkpt lat="50.791817" lon="-1.068021">
-			<ele>46.00</ele>
-			<time>2021-02-22T11:31:09.22Z</time>
-		</trkpt>
-		<trkpt lat="50.791730" lon="-1.067578">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:31:38.53Z</time>
-		</trkpt>
-		<trkpt lat="50.791737" lon="-1.067487">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:31:44.34Z</time>
-		</trkpt>
-		<trkpt lat="50.791676" lon="-1.067092">
-			<ele>45.00</ele>
-			<time>2021-02-22T11:32:10Z</time>
-		</trkpt>
-		<trkpt lat="50.791520" lon="-1.066778">
-			<ele>45.00</ele>
-			<time>2021-02-22T11:32:35.27Z</time>
-		</trkpt>
-		<trkpt lat="50.791508" lon="-1.066692">
-			<ele>47.00</ele>
-			<time>2021-02-22T11:32:40.80Z</time>
-		</trkpt>
-		<trkpt lat="50.791435" lon="-1.066558">
-			<ele>46.00</ele>
-			<time>2021-02-22T11:32:51.99Z</time>
-		</trkpt>
-		<trkpt lat="50.791397" lon="-1.066342">
-			<ele>47.00</ele>
-			<time>2021-02-22T11:33:06.16Z</time>
-		</trkpt>
-		<trkpt lat="50.791367" lon="-1.066279">
-			<ele>47.00</ele>
-			<time>2021-02-22T11:33:11.17Z</time>
-		</trkpt>
-		<trkpt lat="50.791350" lon="-1.066054">
-			<ele>45.00</ele>
-			<time>2021-02-22T11:33:25.47Z</time>
-		</trkpt>
-		<trkpt lat="50.791298" lon="-1.065906">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:33:36.20Z</time>
-		</trkpt>
-		<trkpt lat="50.791260" lon="-1.065432">
-			<ele>45.00</ele>
-			<time>2021-02-22T11:34:06.37Z</time>
-		</trkpt>
-		<trkpt lat="50.791267" lon="-1.065263">
-			<ele>46.00</ele>
-			<time>2021-02-22T11:34:17.11Z</time>
-		</trkpt>
-		<trkpt lat="50.791237" lon="-1.065107">
-			<ele>45.00</ele>
-			<time>2021-02-22T11:34:27.38Z</time>
-		</trkpt>
-		<trkpt lat="50.791245" lon="-1.065032">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:34:32.19Z</time>
-		</trkpt>
-		<trkpt lat="50.791203" lon="-1.064796">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:34:47.73Z</time>
-		</trkpt>
-		<trkpt lat="50.791210" lon="-1.064636">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:34:57.87Z</time>
-		</trkpt>
-		<trkpt lat="50.791172" lon="-1.064475">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:35:08.71Z</time>
-		</trkpt>
-		<trkpt lat="50.791190" lon="-1.064314">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:35:19.05Z</time>
-		</trkpt>
-		<trkpt lat="50.791160" lon="-1.063843">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:35:48.98Z</time>
-		</trkpt>
-		<trkpt lat="50.791187" lon="-1.063674">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:35:59.97Z</time>
-		</trkpt>
-		<trkpt lat="50.791122" lon="-1.062693">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:37:02.35Z</time>
-		</trkpt>
-		<trkpt lat="50.791092" lon="-1.062549">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:37:11.95Z</time>
-		</trkpt>
-		<trkpt lat="50.791096" lon="-1.062295">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:37:28Z</time>
-		</trkpt>
-		<trkpt lat="50.791004" lon="-1.061972">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:37:50.36Z</time>
-		</trkpt>
-		<trkpt lat="50.791000" lon="-1.061886">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:37:55.86Z</time>
-		</trkpt>
-		<trkpt lat="50.790940" lon="-1.061673">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:38:10.58Z</time>
-		</trkpt>
-		<trkpt lat="50.790844" lon="-1.061486">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:38:25.79Z</time>
-		</trkpt>
-		<trkpt lat="50.790806" lon="-1.060921">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:39:01.72Z</time>
-		</trkpt>
-		<trkpt lat="50.790768" lon="-1.060867">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:39:06.84Z</time>
-		</trkpt>
-		<trkpt lat="50.790745" lon="-1.060624">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:39:22.34Z</time>
-		</trkpt>
-		<trkpt lat="50.790672" lon="-1.060416">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:39:37.40Z</time>
-		</trkpt>
-		<trkpt lat="50.790646" lon="-1.060258">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:39:47.70Z</time>
-		</trkpt>
-		<trkpt lat="50.790580" lon="-1.060154">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:39:57.02Z</time>
-		</trkpt>
-		<trkpt lat="50.790485" lon="-1.059686">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:40:28.14Z</time>
-		</trkpt>
-		<trkpt lat="50.790432" lon="-1.059536">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:40:38.97Z</time>
-		</trkpt>
-		<trkpt lat="50.790367" lon="-1.059121">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:41:06.02Z</time>
-		</trkpt>
-		<trkpt lat="50.790314" lon="-1.058974">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:41:16.69Z</time>
-		</trkpt>
-		<trkpt lat="50.790250" lon="-1.058600">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:41:41.18Z</time>
-		</trkpt>
-		<trkpt lat="50.790220" lon="-1.058526">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:41:46.74Z</time>
-		</trkpt>
-		<trkpt lat="50.790188" lon="-1.058128">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:42:12.11Z</time>
-		</trkpt>
-		<trkpt lat="50.790203" lon="-1.058046">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:42:17.55Z</time>
-		</trkpt>
-		<trkpt lat="50.790030" lon="-1.056773">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:43:39.84Z</time>
-		</trkpt>
-		<trkpt lat="50.790016" lon="-1.056744">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:43:42.13Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#8</gte:name>
-			<gte:color>#ffeeaa</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 12</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79044" lon="-1.052709">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:48:41.840Z</time>
+    </trkpt>
+    <trkpt lat="50.790405" lon="-1.05265">
+        <ele>41.0</ele>
+        <time>2021-02-22T11:48:46.930Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 9</name>
-	<desc>Length: 109.9 m (360.6 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790016" lon="-1.056744">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:43:43.03Z</time>
-		</trkpt>
-		<trkpt lat="50.789986" lon="-1.056688">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:43:47.70Z</time>
-		</trkpt>
-		<trkpt lat="50.789950" lon="-1.056371">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:44:08.04Z</time>
-		</trkpt>
-		<trkpt lat="50.789963" lon="-1.056285">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:44:13.64Z</time>
-		</trkpt>
-		<trkpt lat="50.789930" lon="-1.055949">
-			<ele>37.00</ele>
-			<time>2021-02-22T11:44:35.11Z</time>
-		</trkpt>
-		<trkpt lat="50.789900" lon="-1.055886">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:44:40.10Z</time>
-		</trkpt>
-		<trkpt lat="50.789864" lon="-1.055410">
-			<ele>37.00</ele>
-			<time>2021-02-22T11:45:10.43Z</time>
-		</trkpt>
-		<trkpt lat="50.789883" lon="-1.055326">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:45:16.06Z</time>
-		</trkpt>
-		<trkpt lat="50.789925" lon="-1.055263">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:45:21.83Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#9</gte:name>
-			<gte:color>#6666ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 13</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79027" lon="-1.052661">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:49:03.670Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 10</name>
-	<desc>Length: 168.4 m (552.5 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.789925" lon="-1.055263">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:45:22.73Z</time>
-		</trkpt>
-		<trkpt lat="50.789900" lon="-1.055106">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:45:32.96Z</time>
-		</trkpt>
-		<trkpt lat="50.790104" lon="-1.054899">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:45:57.20Z</time>
-		</trkpt>
-		<trkpt lat="50.790200" lon="-1.054877">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:46:06.90Z</time>
-		</trkpt>
-		<trkpt lat="50.790215" lon="-1.054718">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:46:17.06Z</time>
-		</trkpt>
-		<trkpt lat="50.790337" lon="-1.054566">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:46:32.60Z</time>
-		</trkpt>
-		<trkpt lat="50.790382" lon="-1.054346">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:46:47.22Z</time>
-		</trkpt>
-		<trkpt lat="50.790386" lon="-1.054020">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:47:07.83Z</time>
-		</trkpt>
-		<trkpt lat="50.790413" lon="-1.053865">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:47:17.99Z</time>
-		</trkpt>
-		<trkpt lat="50.790390" lon="-1.053460">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:47:43.73Z</time>
-		</trkpt>
-		<trkpt lat="50.790405" lon="-1.053382">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:47:48.88Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#10</gte:name>
-			<gte:color>#ff7c7c</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 20</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790318" lon="-1.052677">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:50:32.690Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 11</name>
-	<desc>Length: 50.99 m (167.3 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790386" lon="-1.053222">
-			<ele>44.00</ele>
-			<time>2021-02-22T11:48:04.79Z</time>
-		</trkpt>
-		<trkpt lat="50.790390" lon="-1.053069">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:48:14.49Z</time>
-		</trkpt>
-		<trkpt lat="50.790447" lon="-1.052831">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:48:30.55Z</time>
-		</trkpt>
-		<trkpt lat="50.790440" lon="-1.052709">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:48:40.94Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#11</gte:name>
-			<gte:color>#9bffff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 21</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790318" lon="-1.052677">
+        <ele>43.0</ele>
+        <time>2021-02-22T11:50:33.590Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 12</name>
-	<desc>Length: 23.27 m (76.35 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790440" lon="-1.052709">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:48:41.84Z</time>
-		</trkpt>
-		<trkpt lat="50.790405" lon="-1.052650">
-			<ele>41.00</ele>
-			<time>2021-02-22T11:48:46.93Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#12</gte:name>
-			<gte:color>#cece00</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 22</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79033" lon="-1.052676">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:50:35.690Z</time>
+    </trkpt>
+    <trkpt lat="50.79042" lon="-1.052628">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:50:51.240Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 13</name>
-	<desc>Length: 8.676 m (28.46 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790270" lon="-1.052661">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:49:03.67Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#13</gte:name>
-			<gte:color>#e8e8ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 23</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79042" lon="-1.052628">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:50:52.140Z</time>
+    </trkpt>
+    <trkpt lat="50.79046" lon="-1.052588">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:50:56.890Z</time>
+    </trkpt>
+    <trkpt lat="50.79053" lon="-1.052198">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:51:22.500Z</time>
+    </trkpt>
+    <trkpt lat="50.790558" lon="-1.051471">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:52:08.530Z</time>
+    </trkpt>
+    <trkpt lat="50.790524" lon="-1.051064">
+        <ele>38.0</ele>
+        <time>2021-02-22T11:52:34.500Z</time>
+    </trkpt>
+    <trkpt lat="50.790363" lon="-1.050278">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:53:26.690Z</time>
+    </trkpt>
+    <trkpt lat="50.790363" lon="-1.050035">
+        <ele>40.0</ele>
+        <time>2021-02-22T11:53:42.050Z</time>
+    </trkpt>
+    <trkpt lat="50.790466" lon="-1.049417">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:54:22.480Z</time>
+    </trkpt>
+    <trkpt lat="50.790558" lon="-1.048619">
+        <ele>37.0</ele>
+        <time>2021-02-22T11:55:13.780Z</time>
+    </trkpt>
+    <trkpt lat="50.790615" lon="-1.048454">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:55:25.640Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 14</name>
-	<desc>Length: 8.483 m (27.83 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#14</gte:name>
-			<gte:color>#bb1cff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 24</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790615" lon="-1.048454">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:55:26.540Z</time>
+    </trkpt>
+    <trkpt lat="50.790585" lon="-1.048302">
+        <ele>42.0</ele>
+        <time>2021-02-22T11:55:36.620Z</time>
+    </trkpt>
+    <trkpt lat="50.790585" lon="-1.048055">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:55:52.240Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 15</name>
-	<desc>Length: 6.576 m (21.57 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#15</gte:name>
-			<gte:color>#00b2b2</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 25</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790585" lon="-1.048055">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:55:53.140Z</time>
+    </trkpt>
+    <trkpt lat="50.790524" lon="-1.047191">
+        <ele>37.0</ele>
+        <time>2021-02-22T11:56:48.080Z</time>
+    </trkpt>
+    <trkpt lat="50.79054" lon="-1.04705">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:56:57.160Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 16</name>
-	<desc>Length: 9.367 m (30.73 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#16</gte:name>
-			<gte:color>#fffb7b</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 26</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79054" lon="-1.04705">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:56:58.060Z</time>
+    </trkpt>
+    <trkpt lat="50.790558" lon="-1.0469">
+        <ele>37.0</ele>
+        <time>2021-02-22T11:57:07.720Z</time>
+    </trkpt>
+    <trkpt lat="50.790653" lon="-1.046546">
+        <ele>36.0</ele>
+        <time>2021-02-22T11:57:32.010Z</time>
+    </trkpt>
+    <trkpt lat="50.79064" lon="-1.046386">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:57:42.210Z</time>
+    </trkpt>
+    <trkpt lat="50.79071" lon="-1.046278">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:57:51.970Z</time>
+    </trkpt>
+    <trkpt lat="50.79083" lon="-1.045932">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:58:16.970Z</time>
+    </trkpt>
+    <trkpt lat="50.79091" lon="-1.045813">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:58:27.950Z</time>
+    </trkpt>
+    <trkpt lat="50.790928" lon="-1.045744">
+        <ele>35.0</ele>
+        <time>2021-02-22T11:58:32.650Z</time>
+    </trkpt>
+    <trkpt lat="50.790886" lon="-1.045514">
+        <ele>37.0</ele>
+        <time>2021-02-22T11:58:47.740Z</time>
+    </trkpt>
+    <trkpt lat="50.790478" lon="-1.04459">
+        <ele>39.0</ele>
+        <time>2021-02-22T11:59:59.000Z</time>
+    </trkpt>
+    <trkpt lat="50.790466" lon="-1.044425">
+        <ele>35.0</ele>
+        <time>2021-02-22T12:00:09.530Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 17</name>
-	<desc>Length: 6.768 m (22.2 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#17</gte:name>
-			<gte:color>#ff1919</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 27</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.790565" lon="-1.044416">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:00:34.660Z</time>
+    </trkpt>
+    <trkpt lat="50.79061" lon="-1.044421">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:00:39.170Z</time>
+    </trkpt>
+    <trkpt lat="50.79082" lon="-1.044202">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:01:04.300Z</time>
+    </trkpt>
+    <trkpt lat="50.79081" lon="-1.044035">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:01:14.930Z</time>
+    </trkpt>
+    <trkpt lat="50.790867" lon="-1.04366">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:01:39.300Z</time>
+    </trkpt>
+    <trkpt lat="50.79087" lon="-1.042944">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:02:24.600Z</time>
+    </trkpt>
+    <trkpt lat="50.791054" lon="-1.042803">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:02:45.030Z</time>
+    </trkpt>
+    <trkpt lat="50.7914" lon="-1.042678">
+        <ele>34.0</ele>
+        <time>2021-02-22T12:03:20.530Z</time>
+    </trkpt>
+    <trkpt lat="50.791595" lon="-1.042658">
+        <ele>35.0</ele>
+        <time>2021-02-22T12:03:40.060Z</time>
+    </trkpt>
+    <trkpt lat="50.79183" lon="-1.042553">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:04:04.500Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 18</name>
-	<desc>Length: 6.915 m (22.69 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#18</gte:name>
-			<gte:color>#0ba40b</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 28</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79183" lon="-1.042552">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:04:06.300Z</time>
+    </trkpt>
+    <trkpt lat="50.79186" lon="-1.042491">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:04:11.190Z</time>
+    </trkpt>
+    <trkpt lat="50.79221" lon="-1.042194">
+        <ele>34.0</ele>
+        <time>2021-02-22T12:04:50.920Z</time>
+    </trkpt>
+    <trkpt lat="50.792442" lon="-1.041894">
+        <ele>35.0</ele>
+        <time>2021-02-22T12:05:20.890Z</time>
+    </trkpt>
+    <trkpt lat="50.792683" lon="-1.041703">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:05:47.830Z</time>
+    </trkpt>
+    <trkpt lat="50.792904" lon="-1.041403">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:06:16.940Z</time>
+    </trkpt>
+    <trkpt lat="50.79304" lon="-1.04128">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:06:32.630Z</time>
+    </trkpt>
+    <trkpt lat="50.79319" lon="-1.041282">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:06:47.630Z</time>
+    </trkpt>
+    <trkpt lat="50.79344" lon="-1.041044">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:07:16.820Z</time>
+    </trkpt>
+    <trkpt lat="50.793533" lon="-1.041025">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:07:26.200Z</time>
+    </trkpt>
+    <trkpt lat="50.793568" lon="-1.040987">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:07:30.440Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 19</name>
-	<desc>Length: 30.13 m (98.85 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#19</gte:name>
-			<gte:color>#ff49ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 29</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.793568" lon="-1.040987">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:07:31.340Z</time>
+    </trkpt>
+    <trkpt lat="50.793724" lon="-1.041023">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:07:47.100Z</time>
+    </trkpt>
+    <trkpt lat="50.79387" lon="-1.041011">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:08:01.720Z</time>
+    </trkpt>
+    <trkpt lat="50.794018" lon="-1.041098">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:08:17.520Z</time>
+    </trkpt>
+    <trkpt lat="50.794064" lon="-1.041091">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:08:22.150Z</time>
+    </trkpt>
+    <trkpt lat="50.794323" lon="-1.040854">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:08:52.080Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 20</name>
-	<desc>Length: 15.08 m (49.48 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790318" lon="-1.052677">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:50:32.69Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#20</gte:name>
-			<gte:color>#be5800</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 30</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.7943" lon="-1.040661">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:09:13.790Z</time>
+    </trkpt>
+    <trkpt lat="50.794228" lon="-1.040561">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:09:23.360Z</time>
+    </trkpt>
+    <trkpt lat="50.79404" lon="-1.040413">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:09:44.370Z</time>
+    </trkpt>
+    <trkpt lat="50.794033" lon="-1.040265">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:09:53.730Z</time>
+    </trkpt>
+    <trkpt lat="50.79406" lon="-1.040034">
+        <ele>36.0</ele>
+        <time>2021-02-22T12:10:08.570Z</time>
+    </trkpt>
+    <trkpt lat="50.794037" lon="-1.040005">
+        <ele>35.0</ele>
+        <time>2021-02-22T12:10:11.520Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 21</name>
-	<desc>Length: 1.336 m (4.383 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790318" lon="-1.052677">
-			<ele>43.00</ele>
-			<time>2021-02-22T11:50:33.59Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#21</gte:name>
-			<gte:color>#9e9eff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 31</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794037" lon="-1.040005">
+        <ele>35.0</ele>
+        <time>2021-02-22T12:10:12.420Z</time>
+    </trkpt>
+    <trkpt lat="50.79411" lon="-1.039871">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:10:23.620Z</time>
+    </trkpt>
+    <trkpt lat="50.79417" lon="-1.039837">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:10:29.990Z</time>
+    </trkpt>
+    <trkpt lat="50.794334" lon="-1.039332">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:11:05.890Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 22</name>
-	<desc>Length: 17.29 m (56.73 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790330" lon="-1.052676">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:50:35.69Z</time>
-		</trkpt>
-		<trkpt lat="50.790420" lon="-1.052628">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:50:51.24Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#22</gte:name>
-			<gte:color>#86ff86</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 32</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794334" lon="-1.039332">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:11:06.790Z</time>
+    </trkpt>
+    <trkpt lat="50.794365" lon="-1.039265">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:11:12.030Z</time>
+    </trkpt>
+    <trkpt lat="50.794544" lon="-1.039068">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:11:33.850Z</time>
+    </trkpt>
+    <trkpt lat="50.794636" lon="-1.039013">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:11:43.680Z</time>
+    </trkpt>
+    <trkpt lat="50.794735" lon="-1.038899">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:11:55.900Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 23</name>
-	<desc>Length: 0.304 km (0.189 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.790420" lon="-1.052628">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:50:52.14Z</time>
-		</trkpt>
-		<trkpt lat="50.790460" lon="-1.052588">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:50:56.89Z</time>
-		</trkpt>
-		<trkpt lat="50.790530" lon="-1.052198">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:51:22.50Z</time>
-		</trkpt>
-		<trkpt lat="50.790558" lon="-1.051471">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:52:08.53Z</time>
-		</trkpt>
-		<trkpt lat="50.790524" lon="-1.051064">
-			<ele>38.00</ele>
-			<time>2021-02-22T11:52:34.50Z</time>
-		</trkpt>
-		<trkpt lat="50.790363" lon="-1.050278">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:53:26.69Z</time>
-		</trkpt>
-		<trkpt lat="50.790363" lon="-1.050035">
-			<ele>40.00</ele>
-			<time>2021-02-22T11:53:42.05Z</time>
-		</trkpt>
-		<trkpt lat="50.790466" lon="-1.049417">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:54:22.48Z</time>
-		</trkpt>
-		<trkpt lat="50.790558" lon="-1.048619">
-			<ele>37.00</ele>
-			<time>2021-02-22T11:55:13.78Z</time>
-		</trkpt>
-		<trkpt lat="50.790615" lon="-1.048454">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:55:25.64Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#23</gte:name>
-			<gte:color>#95ae2f</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 33</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794735" lon="-1.038899">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:11:56.800Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 24</name>
-	<desc>Length: 28.58 m (93.77 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790615" lon="-1.048454">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:55:26.54Z</time>
-		</trkpt>
-		<trkpt lat="50.790585" lon="-1.048302">
-			<ele>42.00</ele>
-			<time>2021-02-22T11:55:36.62Z</time>
-		</trkpt>
-		<trkpt lat="50.790585" lon="-1.048055">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:55:52.24Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#24</gte:name>
-			<gte:color>#42c2a8</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 34</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79478" lon="-1.038832">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:12:05.040Z</time>
+    </trkpt>
+    <trkpt lat="50.794796" lon="-1.038681">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:12:14.760Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 25</name>
-	<desc>Length: 71.19 m (233.6 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.790585" lon="-1.048055">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:55:53.14Z</time>
-		</trkpt>
-		<trkpt lat="50.790524" lon="-1.047191">
-			<ele>37.00</ele>
-			<time>2021-02-22T11:56:48.08Z</time>
-		</trkpt>
-		<trkpt lat="50.790540" lon="-1.047050">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:56:57.16Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#25</gte:name>
-			<gte:color>#efd973</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 36</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79482" lon="-1.038527">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:12:35.260Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 26</name>
-	<desc>Length: 0.223 km (0.138 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.790540" lon="-1.047050">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:56:58.06Z</time>
-		</trkpt>
-		<trkpt lat="50.790558" lon="-1.046900">
-			<ele>37.00</ele>
-			<time>2021-02-22T11:57:07.72Z</time>
-		</trkpt>
-		<trkpt lat="50.790653" lon="-1.046546">
-			<ele>36.00</ele>
-			<time>2021-02-22T11:57:32.01Z</time>
-		</trkpt>
-		<trkpt lat="50.790640" lon="-1.046386">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:57:42.21Z</time>
-		</trkpt>
-		<trkpt lat="50.790710" lon="-1.046278">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:57:51.97Z</time>
-		</trkpt>
-		<trkpt lat="50.790830" lon="-1.045932">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:58:16.97Z</time>
-		</trkpt>
-		<trkpt lat="50.790910" lon="-1.045813">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:58:27.95Z</time>
-		</trkpt>
-		<trkpt lat="50.790928" lon="-1.045744">
-			<ele>35.00</ele>
-			<time>2021-02-22T11:58:32.65Z</time>
-		</trkpt>
-		<trkpt lat="50.790886" lon="-1.045514">
-			<ele>37.00</ele>
-			<time>2021-02-22T11:58:47.74Z</time>
-		</trkpt>
-		<trkpt lat="50.790478" lon="-1.044590">
-			<ele>39.00</ele>
-			<time>2021-02-22T11:59:59Z</time>
-		</trkpt>
-		<trkpt lat="50.790466" lon="-1.044425">
-			<ele>35.00</ele>
-			<time>2021-02-22T12:00:09.53Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#26</gte:name>
-			<gte:color>#fc00fc</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 37</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79482" lon="-1.038527">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:12:36.160Z</time>
+    </trkpt>
+    <trkpt lat="50.79486" lon="-1.038496">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:12:40.610Z</time>
+    </trkpt>
+    <trkpt lat="50.794964" lon="-1.038305">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:12:56.570Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 27</name>
-	<desc>Length: 0.25 km (0.156 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.790565" lon="-1.044416">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:00:34.66Z</time>
-		</trkpt>
-		<trkpt lat="50.790610" lon="-1.044421">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:00:39.17Z</time>
-		</trkpt>
-		<trkpt lat="50.790820" lon="-1.044202">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:01:04.30Z</time>
-		</trkpt>
-		<trkpt lat="50.790810" lon="-1.044035">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:01:14.93Z</time>
-		</trkpt>
-		<trkpt lat="50.790867" lon="-1.043660">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:01:39.30Z</time>
-		</trkpt>
-		<trkpt lat="50.790870" lon="-1.042944">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:02:24.60Z</time>
-		</trkpt>
-		<trkpt lat="50.791054" lon="-1.042803">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:02:45.03Z</time>
-		</trkpt>
-		<trkpt lat="50.791400" lon="-1.042678">
-			<ele>34.00</ele>
-			<time>2021-02-22T12:03:20.53Z</time>
-		</trkpt>
-		<trkpt lat="50.791595" lon="-1.042658">
-			<ele>35.00</ele>
-			<time>2021-02-22T12:03:40.06Z</time>
-		</trkpt>
-		<trkpt lat="50.791830" lon="-1.042553">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:04:04.50Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#27</gte:name>
-			<gte:color>#00bd57</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 38</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794964" lon="-1.038305">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:12:57.470Z</time>
+    </trkpt>
+    <trkpt lat="50.794945" lon="-1.038279">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:13:07.250Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 28</name>
-	<desc>Length: 0.227 km (0.141 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.791830" lon="-1.042552">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:04:06.30Z</time>
-		</trkpt>
-		<trkpt lat="50.791860" lon="-1.042491">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:04:11.19Z</time>
-		</trkpt>
-		<trkpt lat="50.792210" lon="-1.042194">
-			<ele>34.00</ele>
-			<time>2021-02-22T12:04:50.92Z</time>
-		</trkpt>
-		<trkpt lat="50.792442" lon="-1.041894">
-			<ele>35.00</ele>
-			<time>2021-02-22T12:05:20.89Z</time>
-		</trkpt>
-		<trkpt lat="50.792683" lon="-1.041703">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:05:47.83Z</time>
-		</trkpt>
-		<trkpt lat="50.792904" lon="-1.041403">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:06:16.94Z</time>
-		</trkpt>
-		<trkpt lat="50.793040" lon="-1.041280">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:06:32.63Z</time>
-		</trkpt>
-		<trkpt lat="50.793190" lon="-1.041282">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:06:47.63Z</time>
-		</trkpt>
-		<trkpt lat="50.793440" lon="-1.041044">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:07:16.82Z</time>
-		</trkpt>
-		<trkpt lat="50.793533" lon="-1.041025">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:07:26.20Z</time>
-		</trkpt>
-		<trkpt lat="50.793568" lon="-1.040987">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:07:30.44Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#28</gte:name>
-			<gte:color>#d13838</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 39</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794945" lon="-1.038279">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:13:08.150Z</time>
+    </trkpt>
+    <trkpt lat="50.794895" lon="-1.038464">
+        <ele>44.0</ele>
+        <time>2021-02-22T12:13:20.900Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 29</name>
-	<desc>Length: 95.3 m (312.7 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.793568" lon="-1.040987">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:07:31.34Z</time>
-		</trkpt>
-		<trkpt lat="50.793724" lon="-1.041023">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:07:47.10Z</time>
-		</trkpt>
-		<trkpt lat="50.793870" lon="-1.041011">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:08:01.72Z</time>
-		</trkpt>
-		<trkpt lat="50.794018" lon="-1.041098">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:08:17.52Z</time>
-		</trkpt>
-		<trkpt lat="50.794064" lon="-1.041091">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:08:22.15Z</time>
-		</trkpt>
-		<trkpt lat="50.794323" lon="-1.040854">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:08:52.08Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#29</gte:name>
-			<gte:color>#08ffba</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 40</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794895" lon="-1.038464">
+        <ele>44.0</ele>
+        <time>2021-02-22T12:13:21.800Z</time>
+    </trkpt>
+    <trkpt lat="50.794838" lon="-1.038584">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:13:31.290Z</time>
+    </trkpt>
+    <trkpt lat="50.794846" lon="-1.038708">
+        <ele>45.0</ele>
+        <time>2021-02-22T12:13:39.160Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 30</name>
-	<desc>Length: 80.93 m (265.5 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794300" lon="-1.040661">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:09:13.79Z</time>
-		</trkpt>
-		<trkpt lat="50.794228" lon="-1.040561">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:09:23.36Z</time>
-		</trkpt>
-		<trkpt lat="50.794040" lon="-1.040413">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:09:44.37Z</time>
-		</trkpt>
-		<trkpt lat="50.794033" lon="-1.040265">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:09:53.73Z</time>
-		</trkpt>
-		<trkpt lat="50.794060" lon="-1.040034">
-			<ele>36.00</ele>
-			<time>2021-02-22T12:10:08.57Z</time>
-		</trkpt>
-		<trkpt lat="50.794037" lon="-1.040005">
-			<ele>35.00</ele>
-			<time>2021-02-22T12:10:11.52Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#30</gte:name>
-			<gte:color>#ffdde2</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 41</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794846" lon="-1.038708">
+        <ele>45.0</ele>
+        <time>2021-02-22T12:13:40.060Z</time>
+    </trkpt>
+    <trkpt lat="50.794754" lon="-1.038814">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:13:51.440Z</time>
+    </trkpt>
+    <trkpt lat="50.79478" lon="-1.038885">
+        <ele>44.0</ele>
+        <time>2021-02-22T12:13:56.610Z</time>
+    </trkpt>
+    <trkpt lat="50.794796" lon="-1.038872">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:13:58.400Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 31</name>
-	<desc>Length: 59.45 m (195 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794037" lon="-1.040005">
-			<ele>35.00</ele>
-			<time>2021-02-22T12:10:12.42Z</time>
-		</trkpt>
-		<trkpt lat="50.794110" lon="-1.039871">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:10:23.62Z</time>
-		</trkpt>
-		<trkpt lat="50.794170" lon="-1.039837">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:10:29.99Z</time>
-		</trkpt>
-		<trkpt lat="50.794334" lon="-1.039332">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:11:05.89Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#31</gte:name>
-			<gte:color>#fbaf00</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 42</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794796" lon="-1.038872">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:13:59.300Z</time>
+    </trkpt>
+    <trkpt lat="50.794827" lon="-1.038928">
+        <ele>42.0</ele>
+        <time>2021-02-22T12:14:03.990Z</time>
+    </trkpt>
+    <trkpt lat="50.79496" lon="-1.03883">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:14:18.650Z</time>
+    </trkpt>
+    <trkpt lat="50.795055" lon="-1.038649">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:14:33.560Z</time>
+    </trkpt>
+    <trkpt lat="50.795155" lon="-1.038613">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:14:43.810Z</time>
+    </trkpt>
+    <trkpt lat="50.795277" lon="-1.03829">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:15:07.640Z</time>
+    </trkpt>
+    <trkpt lat="50.795315" lon="-1.038246">
+        <ele>42.0</ele>
+        <time>2021-02-22T12:15:12.340Z</time>
+    </trkpt>
+    <trkpt lat="50.795353" lon="-1.03811">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:15:21.750Z</time>
+    </trkpt>
+    <trkpt lat="50.79543" lon="-1.037995">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:15:32.310Z</time>
+    </trkpt>
+    <trkpt lat="50.795437" lon="-1.037973">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:15:33.850Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 32</name>
-	<desc>Length: 54.61 m (179.2 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794334" lon="-1.039332">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:11:06.79Z</time>
-		</trkpt>
-		<trkpt lat="50.794365" lon="-1.039265">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:11:12.03Z</time>
-		</trkpt>
-		<trkpt lat="50.794544" lon="-1.039068">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:11:33.85Z</time>
-		</trkpt>
-		<trkpt lat="50.794636" lon="-1.039013">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:11:43.68Z</time>
-		</trkpt>
-		<trkpt lat="50.794735" lon="-1.038899">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:11:55.90Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#32</gte:name>
-			<gte:color>#00ce00</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 43</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795437" lon="-1.037973">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:15:34.750Z</time>
+    </trkpt>
+    <trkpt lat="50.795444" lon="-1.037922">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:15:38.080Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 33</name>
-	<desc>Length: 8.157 m (26.76 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794735" lon="-1.038899">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:11:56.80Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#33</gte:name>
-			<gte:color>#ffb0ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 44</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795444" lon="-1.037922">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:15:38.980Z</time>
+    </trkpt>
+    <trkpt lat="50.79553" lon="-1.0378">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:15:50.550Z</time>
+    </trkpt>
+    <trkpt lat="50.795612" lon="-1.037615">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:16:04.810Z</time>
+    </trkpt>
+    <trkpt lat="50.795605" lon="-1.037553">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:16:08.770Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 34</name>
-	<desc>Length: 20.24 m (66.4 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794780" lon="-1.038832">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:12:05.04Z</time>
-		</trkpt>
-		<trkpt lat="50.794796" lon="-1.038681">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:12:14.76Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#34</gte:name>
-			<gte:color>#4eb4ce</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 45</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795605" lon="-1.037553">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:16:09.670Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 35</name>
-	<desc>Length: 6.835 m (22.42 ft)</desc>
-	<trkseg>
-		<extensions>
-			<gte:name>#35</gte:name>
-			<gte:color>#b69c36</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 46</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795628" lon="-1.037524">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:16:13.510Z</time>
+    </trkpt>
+    <trkpt lat="50.79574" lon="-1.037173">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:16:38.360Z</time>
+    </trkpt>
+    <trkpt lat="50.795746" lon="-1.037089">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:16:43.750Z</time>
+    </trkpt>
+    <trkpt lat="50.795708" lon="-1.036933">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:16:54.270Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 36</name>
-	<desc>Length: 4.534 m (14.88 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794820" lon="-1.038527">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:12:35.26Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#36</gte:name>
-			<gte:color>#00ffff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 47</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795708" lon="-1.036933">
+        <ele>38.0</ele>
+        <time>2021-02-22T12:16:55.170Z</time>
+    </trkpt>
+    <trkpt lat="50.795715" lon="-1.036842">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:17:03.120Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 37</name>
-	<desc>Length: 22.69 m (74.44 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794820" lon="-1.038527">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:12:36.16Z</time>
-		</trkpt>
-		<trkpt lat="50.794860" lon="-1.038496">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:12:40.61Z</time>
-		</trkpt>
-		<trkpt lat="50.794964" lon="-1.038305">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:12:56.57Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#37</gte:name>
-			<gte:color>#1cff1c</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 48</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795715" lon="-1.036842">
+        <ele>37.0</ele>
+        <time>2021-02-22T12:17:04.020Z</time>
+    </trkpt>
+    <trkpt lat="50.79573" lon="-1.036864">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:17:06.050Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 38</name>
-	<desc>Length: 10.88 m (35.7 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794964" lon="-1.038305">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:12:57.47Z</time>
-		</trkpt>
-		<trkpt lat="50.794945" lon="-1.038279">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:13:07.25Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#38</gte:name>
-			<gte:color>#d26ceb</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 49</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79573" lon="-1.036864">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:17:06.950Z</time>
+    </trkpt>
+    <trkpt lat="50.79577" lon="-1.036953">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:17:13.870Z</time>
+    </trkpt>
+    <trkpt lat="50.795742" lon="-1.037117">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:17:24.600Z</time>
+    </trkpt>
+    <trkpt lat="50.795826" lon="-1.0374">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:17:44.390Z</time>
+    </trkpt>
+    <trkpt lat="50.79582" lon="-1.037636">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:17:59.290Z</time>
+    </trkpt>
+    <trkpt lat="50.79585" lon="-1.037944">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:18:19.000Z</time>
+    </trkpt>
+    <trkpt lat="50.79589" lon="-1.037994">
+        <ele>39.0</ele>
+        <time>2021-02-22T12:18:24.090Z</time>
+    </trkpt>
+    <trkpt lat="50.79589" lon="-1.038054">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:18:27.900Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 39</name>
-	<desc>Length: 14.17 m (46.49 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794945" lon="-1.038279">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:13:08.15Z</time>
-		</trkpt>
-		<trkpt lat="50.794895" lon="-1.038464">
-			<ele>44.00</ele>
-			<time>2021-02-22T12:13:20.90Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#39</gte:name>
-			<gte:color>#ffeeaa</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 50</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79589" lon="-1.038054">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:18:28.800Z</time>
+    </trkpt>
+    <trkpt lat="50.795944" lon="-1.038291">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:18:44.720Z</time>
+    </trkpt>
+    <trkpt lat="50.796127" lon="-1.038361">
+        <ele>42.0</ele>
+        <time>2021-02-22T12:19:03.550Z</time>
+    </trkpt>
+    <trkpt lat="50.79635" lon="-1.038531">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:19:28.300Z</time>
+    </trkpt>
+    <trkpt lat="50.79637" lon="-1.03861">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:19:33.690Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 40</name>
-	<desc>Length: 19.3 m (63.32 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794895" lon="-1.038464">
-			<ele>44.00</ele>
-			<time>2021-02-22T12:13:21.80Z</time>
-		</trkpt>
-		<trkpt lat="50.794838" lon="-1.038584">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:13:31.29Z</time>
-		</trkpt>
-		<trkpt lat="50.794846" lon="-1.038708">
-			<ele>45.00</ele>
-			<time>2021-02-22T12:13:39.16Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#40</gte:name>
-			<gte:color>#6666ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 51</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.796375" lon="-1.038612">
+        <ele>41.0</ele>
+        <time>2021-02-22T12:19:35.490Z</time>
+    </trkpt>
+    <trkpt lat="50.796417" lon="-1.038564">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:19:40.680Z</time>
+    </trkpt>
+    <trkpt lat="50.7965" lon="-1.038545">
+        <ele>46.0</ele>
+        <time>2021-02-22T12:19:49.070Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 41</name>
-	<desc>Length: 20.39 m (66.9 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794846" lon="-1.038708">
-			<ele>45.00</ele>
-			<time>2021-02-22T12:13:40.06Z</time>
-		</trkpt>
-		<trkpt lat="50.794754" lon="-1.038814">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:13:51.44Z</time>
-		</trkpt>
-		<trkpt lat="50.794780" lon="-1.038885">
-			<ele>44.00</ele>
-			<time>2021-02-22T12:13:56.61Z</time>
-		</trkpt>
-		<trkpt lat="50.794796" lon="-1.038872">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:13:58.40Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#41</gte:name>
-			<gte:color>#ff7c7c</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 52</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.7965" lon="-1.038545">
+        <ele>46.0</ele>
+        <time>2021-02-22T12:19:49.970Z</time>
+    </trkpt>
+    <trkpt lat="50.79655" lon="-1.038519">
+        <ele>48.0</ele>
+        <time>2021-02-22T12:19:55.220Z</time>
+    </trkpt>
+    <trkpt lat="50.796776" lon="-1.038684">
+        <ele>45.0</ele>
+        <time>2021-02-22T12:20:20.090Z</time>
+    </trkpt>
+    <trkpt lat="50.797062" lon="-1.038736">
+        <ele>45.0</ele>
+        <time>2021-02-22T12:20:48.890Z</time>
+    </trkpt>
+    <trkpt lat="50.797108" lon="-1.038716">
+        <ele>45.0</ele>
+        <time>2021-02-22T12:20:53.650Z</time>
+    </trkpt>
+    <trkpt lat="50.79778" lon="-1.038994">
+        <ele>49.0</ele>
+        <time>2021-02-22T12:22:03.110Z</time>
+    </trkpt>
+    <trkpt lat="50.798203" lon="-1.03921">
+        <ele>48.0</ele>
+        <time>2021-02-22T12:22:47.560Z</time>
+    </trkpt>
+    <trkpt lat="50.798702" lon="-1.039517">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:23:41.050Z</time>
+    </trkpt>
+    <trkpt lat="50.798807" lon="-1.040048">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:24:16.220Z</time>
+    </trkpt>
+    <trkpt lat="50.798852" lon="-1.040327">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:24:34.440Z</time>
+    </trkpt>
+    <trkpt lat="50.798859" lon="-1.040611">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:24:52.420Z</time>
+    </trkpt>
+    <trkpt lat="50.798871" lon="-1.041907">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:26:14.310Z</time>
+    </trkpt>
+    <trkpt lat="50.799029" lon="-1.041974">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:26:30.640Z</time>
+    </trkpt>
+    <trkpt lat="50.799305" lon="-1.04195">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:26:58.310Z</time>
+    </trkpt>
+    <trkpt lat="50.79929" lon="-1.042215">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:27:15.160Z</time>
+    </trkpt>
+    <trkpt lat="50.799125" lon="-1.042258">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:27:31.830Z</time>
+    </trkpt>
+    <trkpt lat="50.79909" lon="-1.042883">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:28:11.500Z</time>
+    </trkpt>
+    <trkpt lat="50.799081" lon="-1.043328">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:28:39.650Z</time>
+    </trkpt>
+    <trkpt lat="50.799095" lon="-1.043889">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:29:15.100Z</time>
+    </trkpt>
+    <trkpt lat="50.799164" lon="-1.044208">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:29:36.440Z</time>
+    </trkpt>
+    <trkpt lat="50.799366" lon="-1.044227">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:29:56.660Z</time>
+    </trkpt>
+    <trkpt lat="50.799368" lon="-1.044565">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:30:18.020Z</time>
+    </trkpt>
+    <trkpt lat="50.799356" lon="-1.044914">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:30:40.090Z</time>
+    </trkpt>
+    <trkpt lat="50.799349" lon="-1.045034">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:30:47.750Z</time>
+    </trkpt>
+    <trkpt lat="50.799232" lon="-1.045133">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:31:01.020Z</time>
+    </trkpt>
+    <trkpt lat="50.799154" lon="-1.045439">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:31:21.860Z</time>
+    </trkpt>
+    <trkpt lat="50.799147" lon="-1.045788">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:31:43.900Z</time>
+    </trkpt>
+    <trkpt lat="50.79911" lon="-1.045943">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:31:54.420Z</time>
+    </trkpt>
+    <trkpt lat="50.799002" lon="-1.046062">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:32:07.590Z</time>
+    </trkpt>
+    <trkpt lat="50.798795" lon="-1.045777">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:32:34.990Z</time>
+    </trkpt>
+    <trkpt lat="50.798534" lon="-1.045627">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:33:02.770Z</time>
+    </trkpt>
+    <trkpt lat="50.798279" lon="-1.045654">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:33:28.250Z</time>
+    </trkpt>
+    <trkpt lat="50.798157" lon="-1.045992">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:33:52.860Z</time>
+    </trkpt>
+    <trkpt lat="50.798161" lon="-1.04634">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:34:14.900Z</time>
+    </trkpt>
+    <trkpt lat="50.798137" lon="-1.046646">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:34:34.370Z</time>
+    </trkpt>
+    <trkpt lat="50.798266" lon="-1.046678">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:34:47.410Z</time>
+    </trkpt>
+    <trkpt lat="50.798344" lon="-1.046464">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:35:03.060Z</time>
+    </trkpt>
+    <trkpt lat="50.798408" lon="-1.046131">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:35:25.040Z</time>
+    </trkpt>
+    <trkpt lat="50.798496" lon="-1.045826">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:35:46.280Z</time>
+    </trkpt>
+    <trkpt lat="50.798612" lon="-1.045632">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:36:03.070Z</time>
+    </trkpt>
+    <trkpt lat="50.798764" lon="-1.045675">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:36:18.560Z</time>
+    </trkpt>
+    <trkpt lat="50.798991" lon="-1.046115">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:36:54.470Z</time>
+    </trkpt>
+    <trkpt lat="50.798873" lon="-1.046475">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:37:20.100Z</time>
+    </trkpt>
+    <trkpt lat="50.798869" lon="-1.047033">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:37:55.360Z</time>
+    </trkpt>
+    <trkpt lat="50.798703" lon="-1.047263">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:38:29.410Z</time>
+    </trkpt>
+    <trkpt lat="50.798622" lon="-1.047446">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:38:43.530Z</time>
+    </trkpt>
+    <trkpt lat="50.798608" lon="-1.048003">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:39:18.810Z</time>
+    </trkpt>
+    <trkpt lat="50.798534" lon="-1.048417">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:39:45.970Z</time>
+    </trkpt>
+    <trkpt lat="50.798496" lon="-1.048792">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:40:09.990Z</time>
+    </trkpt>
+    <trkpt lat="50.798462" lon="-1.049194">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:40:35.650Z</time>
+    </trkpt>
+    <trkpt lat="50.798374" lon="-1.049227">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:40:44.700Z</time>
+    </trkpt>
+    <trkpt lat="50.798354" lon="-1.049409">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:40:56.400Z</time>
+    </trkpt>
+    <trkpt lat="50.798422" lon="-1.049511">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:41:05.760Z</time>
+    </trkpt>
+    <trkpt lat="50.798456" lon="-1.049511">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:41:09.150Z</time>
+    </trkpt>
+    <trkpt lat="50.798544" lon="-1.050021">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:41:42.550Z</time>
+    </trkpt>
+    <trkpt lat="50.798693" lon="-1.050476">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:42:14.990Z</time>
+    </trkpt>
+    <trkpt lat="50.798886" lon="-1.050712">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:42:39.410Z</time>
+    </trkpt>
+    <trkpt lat="50.799086" lon="-1.050922">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:43:03.390Z</time>
+    </trkpt>
+    <trkpt lat="50.798835" lon="-1.051592">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:43:52.640Z</time>
+    </trkpt>
+    <trkpt lat="50.798632" lon="-1.052274">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:44:40.260Z</time>
+    </trkpt>
+    <trkpt lat="50.798486" lon="-1.052612">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:45:06.120Z</time>
+    </trkpt>
+    <trkpt lat="50.798347" lon="-1.053137">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:45:42.140Z</time>
+    </trkpt>
+    <trkpt lat="50.798249" lon="-1.05318">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:45:52.340Z</time>
+    </trkpt>
+    <trkpt lat="50.79792" lon="-1.053116">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:46:25.480Z</time>
+    </trkpt>
+    <trkpt lat="50.797632" lon="-1.053046">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:46:54.630Z</time>
+    </trkpt>
+    <trkpt lat="50.797469" lon="-1.053014">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:47:11.040Z</time>
+    </trkpt>
+    <trkpt lat="50.797147" lon="-1.052939">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:47:43.600Z</time>
+    </trkpt>
+    <trkpt lat="50.79675" lon="-1.052821">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:48:23.960Z</time>
+    </trkpt>
+    <trkpt lat="50.796381" lon="-1.052756">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:49:01.150Z</time>
+    </trkpt>
+    <trkpt lat="50.796059" lon="-1.052687">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:49:33.660Z</time>
+    </trkpt>
+    <trkpt lat="50.795957" lon="-1.053432">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:50:21.870Z</time>
+    </trkpt>
+    <trkpt lat="50.795906" lon="-1.054237">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:51:12.990Z</time>
+    </trkpt>
+    <trkpt lat="50.795794" lon="-1.055052">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:52:05.730Z</time>
+    </trkpt>
+    <trkpt lat="50.795726" lon="-1.055691">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:52:46.640Z</time>
+    </trkpt>
+    <trkpt lat="50.795675" lon="-1.056265">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:53:23.280Z</time>
+    </trkpt>
+    <trkpt lat="50.795645" lon="-1.056324">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:53:28.090Z</time>
+    </trkpt>
+    <trkpt lat="50.795458" lon="-1.056329">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:53:46.750Z</time>
+    </trkpt>
+    <trkpt lat="50.795184" lon="-1.056206">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:54:15.290Z</time>
+    </trkpt>
+    <trkpt lat="50.795092" lon="-1.056227">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:54:24.550Z</time>
+    </trkpt>
+    <trkpt lat="50.795011" lon="-1.056796">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:55:01.410Z</time>
+    </trkpt>
+    <trkpt lat="50.794926" lon="-1.057563">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:55:50.630Z</time>
+    </trkpt>
+    <trkpt lat="50.794896" lon="-1.058233">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:56:33.130Z</time>
+    </trkpt>
+    <trkpt lat="50.794831" lon="-1.058748">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:57:06.310Z</time>
+    </trkpt>
+    <trkpt lat="50.794611" lon="-1.058952">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:57:31.840Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 42</name>
-	<desc>Length: 105.1 m (344.8 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.794796" lon="-1.038872">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:13:59.30Z</time>
-		</trkpt>
-		<trkpt lat="50.794827" lon="-1.038928">
-			<ele>42.00</ele>
-			<time>2021-02-22T12:14:03.99Z</time>
-		</trkpt>
-		<trkpt lat="50.794960" lon="-1.038830">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:14:18.65Z</time>
-		</trkpt>
-		<trkpt lat="50.795055" lon="-1.038649">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:14:33.56Z</time>
-		</trkpt>
-		<trkpt lat="50.795155" lon="-1.038613">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:14:43.81Z</time>
-		</trkpt>
-		<trkpt lat="50.795277" lon="-1.038290">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:15:07.64Z</time>
-		</trkpt>
-		<trkpt lat="50.795315" lon="-1.038246">
-			<ele>42.00</ele>
-			<time>2021-02-22T12:15:12.34Z</time>
-		</trkpt>
-		<trkpt lat="50.795353" lon="-1.038110">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:15:21.75Z</time>
-		</trkpt>
-		<trkpt lat="50.795430" lon="-1.037995">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:15:32.31Z</time>
-		</trkpt>
-		<trkpt lat="50.795437" lon="-1.037973">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:15:33.85Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#42</gte:name>
-			<gte:color>#9bffff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 56</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794605" lon="-1.058951">
+        <ele>54.0</ele>
+        <time>2021-02-22T12:57:32.740Z</time>
+    </trkpt>
+    <trkpt lat="50.79421" lon="-1.059145">
+        <ele>49.0</ele>
+        <time>2021-02-22T12:58:14.100Z</time>
+    </trkpt>
+    <trkpt lat="50.794212" lon="-1.059464">
+        <ele>47.0</ele>
+        <time>2021-02-22T12:58:34.270Z</time>
+    </trkpt>
+    <trkpt lat="50.7943" lon="-1.05974">
+        <ele>46.0</ele>
+        <time>2021-02-22T12:58:53.790Z</time>
+    </trkpt>
+    <trkpt lat="50.79434" lon="-1.059962">
+        <ele>44.0</ele>
+        <time>2021-02-22T12:59:08.370Z</time>
+    </trkpt>
+    <trkpt lat="50.7944" lon="-1.060611">
+        <ele>43.0</ele>
+        <time>2021-02-22T12:59:49.830Z</time>
+    </trkpt>
+    <trkpt lat="50.794357" lon="-1.060656">
+        <ele>40.0</ele>
+        <time>2021-02-22T12:59:55.000Z</time>
+    </trkpt>
+    <trkpt lat="50.79392" lon="-1.06086">
+        <ele>39.0</ele>
+        <time>2021-02-22T13:00:40.560Z</time>
+    </trkpt>
+    <trkpt lat="50.793922" lon="-1.061349">
+        <ele>43.0</ele>
+        <time>2021-02-22T13:01:11.430Z</time>
+    </trkpt>
+    <trkpt lat="50.793964" lon="-1.061501">
+        <ele>44.0</ele>
+        <time>2021-02-22T13:01:21.910Z</time>
+    </trkpt>
+    <trkpt lat="50.793995" lon="-1.062061">
+        <ele>44.0</ele>
+        <time>2021-02-22T13:01:57.500Z</time>
+    </trkpt>
+    <trkpt lat="50.79402" lon="-1.062106">
+        <ele>44.0</ele>
+        <time>2021-02-22T13:02:01.270Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 43</name>
-	<desc>Length: 3.696 m (12.13 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795437" lon="-1.037973">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:15:34.75Z</time>
-		</trkpt>
-		<trkpt lat="50.795444" lon="-1.037922">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:15:38.08Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#43</gte:name>
-			<gte:color>#cece00</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 57</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.79402" lon="-1.062106">
+        <ele>44.0</ele>
+        <time>2021-02-22T13:02:02.170Z</time>
+    </trkpt>
+    <trkpt lat="50.794075" lon="-1.062287">
+        <ele>45.0</ele>
+        <time>2021-02-22T13:02:14.860Z</time>
+    </trkpt>
+    <trkpt lat="50.794018" lon="-1.062402">
+        <ele>43.0</ele>
+        <time>2021-02-22T13:02:24.070Z</time>
+    </trkpt>
+    <trkpt lat="50.794178" lon="-1.062819">
+        <ele>44.0</ele>
+        <time>2021-02-22T13:02:54.950Z</time>
+    </trkpt>
+    <trkpt lat="50.794327" lon="-1.063616">
+        <ele>49.0</ele>
+        <time>2021-02-22T13:03:47.450Z</time>
+    </trkpt>
+    <trkpt lat="50.794422" lon="-1.063889">
+        <ele>49.0</ele>
+        <time>2021-02-22T13:04:07.190Z</time>
+    </trkpt>
+    <trkpt lat="50.794495" lon="-1.064438">
+        <ele>47.0</ele>
+        <time>2021-02-22T13:04:42.620Z</time>
+    </trkpt>
+    <trkpt lat="50.794495" lon="-1.06461">
+        <ele>49.0</ele>
+        <time>2021-02-22T13:04:53.530Z</time>
+    </trkpt>
+    <trkpt lat="50.794563" lon="-1.065011">
+        <ele>50.0</ele>
+        <time>2021-02-22T13:05:19.730Z</time>
+    </trkpt>
+    <trkpt lat="50.794605" lon="-1.065055">
+        <ele>52.0</ele>
+        <time>2021-02-22T13:05:24.770Z</time>
+    </trkpt>
+    <trkpt lat="50.795" lon="-1.064902">
+        <ele>52.0</ele>
+        <time>2021-02-22T13:06:05.430Z</time>
+    </trkpt>
+    <trkpt lat="50.79509" lon="-1.064817">
+        <ele>53.0</ele>
+        <time>2021-02-22T13:06:15.910Z</time>
+    </trkpt>
+    <trkpt lat="50.795353" lon="-1.064805">
+        <ele>55.0</ele>
+        <time>2021-02-22T13:06:42.220Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 44</name>
-	<desc>Length: 33.13 m (108.7 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795444" lon="-1.037922">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:15:38.98Z</time>
-		</trkpt>
-		<trkpt lat="50.795530" lon="-1.037800">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:15:50.55Z</time>
-		</trkpt>
-		<trkpt lat="50.795612" lon="-1.037615">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:16:04.81Z</time>
-		</trkpt>
-		<trkpt lat="50.795605" lon="-1.037553">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:16:08.77Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#44</gte:name>
-			<gte:color>#e8e8ff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 58</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795353" lon="-1.064805">
+        <ele>55.0</ele>
+        <time>2021-02-22T13:06:43.120Z</time>
+    </trkpt>
+    <trkpt lat="50.79561" lon="-1.064709">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:07:09.530Z</time>
+    </trkpt>
+    <trkpt lat="50.795753" lon="-1.064756">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:07:24.150Z</time>
+    </trkpt>
+    <trkpt lat="50.79575" lon="-1.064829">
+        <ele>55.0</ele>
+        <time>2021-02-22T13:07:28.760Z</time>
+    </trkpt>
+    <trkpt lat="50.795795" lon="-1.064871">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:07:33.980Z</time>
+    </trkpt>
+    <trkpt lat="50.795975" lon="-1.064916">
+        <ele>53.0</ele>
+        <time>2021-02-22T13:07:52.200Z</time>
+    </trkpt>
+    <trkpt lat="50.796024" lon="-1.064963">
+        <ele>51.0</ele>
+        <time>2021-02-22T13:07:57.920Z</time>
+    </trkpt>
+    <trkpt lat="50.795933" lon="-1.065244">
+        <ele>52.0</ele>
+        <time>2021-02-22T13:08:17.890Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 45</name>
-	<desc>Length: 3.27 m (10.73 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795605" lon="-1.037553">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:16:09.67Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#45</gte:name>
-			<gte:color>#bb1cff</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 59</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.795933" lon="-1.065244">
+        <ele>52.0</ele>
+        <time>2021-02-22T13:08:18.790Z</time>
+    </trkpt>
+    <trkpt lat="50.796043" lon="-1.066343">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:09:29.130Z</time>
+    </trkpt>
+    <trkpt lat="50.796158" lon="-1.066686">
+        <ele>57.0</ele>
+        <time>2021-02-22T13:09:53.670Z</time>
+    </trkpt>
+    <trkpt lat="50.796238" lon="-1.066787">
+        <ele>59.0</ele>
+        <time>2021-02-22T13:10:03.910Z</time>
+    </trkpt>
+    <trkpt lat="50.79633" lon="-1.066808">
+        <ele>57.0</ele>
+        <time>2021-02-22T13:10:13.210Z</time>
+    </trkpt>
+    <trkpt lat="50.796345" lon="-1.066744">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:10:35.070Z</time>
+    </trkpt>
+    <trkpt lat="50.7964" lon="-1.066601">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:10:45.650Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 46</name>
-	<desc>Length: 45.32 m (148.7 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795628" lon="-1.037524">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:16:13.51Z</time>
-		</trkpt>
-		<trkpt lat="50.795740" lon="-1.037173">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:16:38.36Z</time>
-		</trkpt>
-		<trkpt lat="50.795746" lon="-1.037089">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:16:43.75Z</time>
-		</trkpt>
-		<trkpt lat="50.795708" lon="-1.036933">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:16:54.27Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#46</gte:name>
-			<gte:color>#00b2b2</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 60</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.796963" lon="-1.066807">
+        <ele>130.0</ele>
+        <time>2021-02-22T13:11:43.430Z</time>
+    </trkpt>
+    <trkpt lat="50.79699" lon="-1.06691">
+        <ele>125.0</ele>
+        <time>2021-02-22T13:11:50.510Z</time>
+    </trkpt>
+    <trkpt lat="50.796986" lon="-1.066985">
+        <ele>127.0</ele>
+        <time>2021-02-22T13:11:55.240Z</time>
+    </trkpt>
+    <trkpt lat="50.7969" lon="-1.067177">
+        <ele>145.0</ele>
+        <time>2021-02-22T13:12:10.100Z</time>
+    </trkpt>
+    <trkpt lat="50.79689" lon="-1.067285">
+        <ele>147.0</ele>
+        <time>2021-02-22T13:12:16.990Z</time>
+    </trkpt>
+    <trkpt lat="50.796913" lon="-1.06739">
+        <ele>150.0</ele>
+        <time>2021-02-22T13:12:24.030Z</time>
+    </trkpt>
+    <trkpt lat="50.796917" lon="-1.067647">
+        <ele>134.0</ele>
+        <time>2021-02-22T13:12:40.270Z</time>
+    </trkpt>
+    <trkpt lat="50.796986" lon="-1.067893">
+        <ele>134.0</ele>
+        <time>2021-02-22T13:12:57.300Z</time>
+    </trkpt>
+    <trkpt lat="50.797066" lon="-1.067821">
+        <ele>125.0</ele>
+        <time>2021-02-22T13:13:06.490Z</time>
+    </trkpt>
+    <trkpt lat="50.79708" lon="-1.067751">
+        <ele>112.0</ele>
+        <time>2021-02-22T13:13:11.130Z</time>
+    </trkpt>
+    <trkpt lat="50.797188" lon="-1.067655">
+        <ele>98.0</ele>
+        <time>2021-02-22T13:13:23.530Z</time>
+    </trkpt>
+    <trkpt lat="50.797256" lon="-1.067493">
+        <ele>76.0</ele>
+        <time>2021-02-22T13:13:35.800Z</time>
+    </trkpt>
+    <trkpt lat="50.797237" lon="-1.067092">
+        <ele>26.0</ele>
+        <time>2021-02-22T13:14:01.220Z</time>
+    </trkpt>
+    <trkpt lat="50.797184" lon="-1.066969">
+        <ele>24.0</ele>
+        <time>2021-02-22T13:14:10.640Z</time>
+    </trkpt>
+    <trkpt lat="50.797245" lon="-1.066855">
+        <ele>7.0</ele>
+        <time>2021-02-22T13:14:20.060Z</time>
+    </trkpt>
+    <trkpt lat="50.79724" lon="-1.066797">
+        <ele>3.0</ele>
+        <time>2021-02-22T13:14:23.760Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 47</name>
-	<desc>Length: 8.839 m (29 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795708" lon="-1.036933">
-			<ele>38.00</ele>
-			<time>2021-02-22T12:16:55.17Z</time>
-		</trkpt>
-		<trkpt lat="50.795715" lon="-1.036842">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:17:03.12Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#47</gte:name>
-			<gte:color>#fffb7b</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 61</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.797176" lon="-1.066565">
+        <ele>5.0</ele>
+        <time>2021-02-22T13:14:39.780Z</time>
+    </trkpt>
+    <trkpt lat="50.797165" lon="-1.066479">
+        <ele>13.0</ele>
+        <time>2021-02-22T13:14:45.350Z</time>
+    </trkpt>
+    <trkpt lat="50.79708" lon="-1.066323">
+        <ele>29.0</ele>
+        <time>2021-02-22T13:15:18.840Z</time>
+    </trkpt>
+    <trkpt lat="50.79703" lon="-1.066332">
+        <ele>32.0</ele>
+        <time>2021-02-22T13:15:23.870Z</time>
+    </trkpt>
+    <trkpt lat="50.796932" lon="-1.066286">
+        <ele>42.0</ele>
+        <time>2021-02-22T13:17:37.770Z</time>
+    </trkpt>
+    <trkpt lat="50.796886" lon="-1.066297">
+        <ele>41.0</ele>
+        <time>2021-02-22T13:17:42.430Z</time>
+    </trkpt>
+    <trkpt lat="50.79683" lon="-1.066396">
+        <ele>42.0</ele>
+        <time>2021-02-22T13:18:08.140Z</time>
+    </trkpt>
+    <trkpt lat="50.796833" lon="-1.066416">
+        <ele>40.0</ele>
+        <time>2021-02-22T13:18:20.040Z</time>
+    </trkpt>
+    <trkpt lat="50.796844" lon="-1.066482">
+        <ele>28.0</ele>
+        <time>2021-02-22T13:21:05.410Z</time>
+    </trkpt>
+    <trkpt lat="50.79689" lon="-1.066605">
+        <ele>28.0</ele>
+        <time>2021-02-22T13:21:31.980Z</time>
+    </trkpt>
+    <trkpt lat="50.796886" lon="-1.066917">
+        <ele>28.0</ele>
+        <time>2021-02-22T13:21:51.710Z</time>
+    </trkpt>
+    <trkpt lat="50.796513" lon="-1.066892">
+        <ele>28.0</ele>
+        <time>2021-02-22T13:22:29.040Z</time>
+    </trkpt>
+    <trkpt lat="50.796314" lon="-1.066771">
+        <ele>32.0</ele>
+        <time>2021-02-22T13:22:50.360Z</time>
+    </trkpt>
+    <trkpt lat="50.79628" lon="-1.066718">
+        <ele>34.0</ele>
+        <time>2021-02-22T13:22:55.160Z</time>
+    </trkpt>
+    <trkpt lat="50.7961" lon="-1.066604">
+        <ele>39.0</ele>
+        <time>2021-02-22T13:23:14.540Z</time>
+    </trkpt>
+    <trkpt lat="50.795998" lon="-1.066599">
+        <ele>39.0</ele>
+        <time>2021-02-22T13:23:24.740Z</time>
+    </trkpt>
+    <trkpt lat="50.795807" lon="-1.066754">
+        <ele>38.0</ele>
+        <time>2021-02-22T13:23:46.210Z</time>
+    </trkpt>
+    <trkpt lat="50.79567" lon="-1.066805">
+        <ele>38.0</ele>
+        <time>2021-02-22T13:24:00.280Z</time>
+    </trkpt>
+    <trkpt lat="50.79563" lon="-1.066887">
+        <ele>40.0</ele>
+        <time>2021-02-22T13:24:06.790Z</time>
+    </trkpt>
+    <trkpt lat="50.795628" lon="-1.067052">
+        <ele>45.0</ele>
+        <time>2021-02-22T13:24:17.250Z</time>
+    </trkpt>
+    <trkpt lat="50.79559" lon="-1.067111">
+        <ele>46.0</ele>
+        <time>2021-02-22T13:24:22.560Z</time>
+    </trkpt>
+    <trkpt lat="50.795403" lon="-1.067209">
+        <ele>46.0</ele>
+        <time>2021-02-22T13:24:42.270Z</time>
+    </trkpt>
+    <trkpt lat="50.79525" lon="-1.067228">
+        <ele>45.0</ele>
+        <time>2021-02-22T13:24:57.610Z</time>
+    </trkpt>
+    <trkpt lat="50.79501" lon="-1.067381">
+        <ele>39.0</ele>
+        <time>2021-02-22T13:25:23.490Z</time>
+    </trkpt>
+    <trkpt lat="50.794903" lon="-1.067651">
+        <ele>42.0</ele>
+        <time>2021-02-22T13:25:43.630Z</time>
+    </trkpt>
+    <trkpt lat="50.794857" lon="-1.068158">
+        <ele>47.0</ele>
+        <time>2021-02-22T13:26:16.010Z</time>
+    </trkpt>
+    <trkpt lat="50.79477" lon="-1.068216">
+        <ele>47.0</ele>
+        <time>2021-02-22T13:26:25.460Z</time>
+    </trkpt>
+    <trkpt lat="50.794754" lon="-1.068296">
+        <ele>48.0</ele>
+        <time>2021-02-22T13:26:30.770Z</time>
+    </trkpt>
+    <trkpt lat="50.794785" lon="-1.068687">
+        <ele>50.0</ele>
+        <time>2021-02-22T13:26:55.660Z</time>
+    </trkpt>
+    <trkpt lat="50.794872" lon="-1.069076">
+        <ele>51.0</ele>
+        <time>2021-02-22T13:27:21.760Z</time>
+    </trkpt>
+    <trkpt lat="50.79497" lon="-1.069781">
+        <ele>54.0</ele>
+        <time>2021-02-22T13:28:07.380Z</time>
+    </trkpt>
+    <trkpt lat="50.79499" lon="-1.070115">
+        <ele>52.0</ele>
+        <time>2021-02-22T13:28:28.550Z</time>
+    </trkpt>
+    <trkpt lat="50.794952" lon="-1.07016">
+        <ele>51.0</ele>
+        <time>2021-02-22T13:28:33.310Z</time>
+    </trkpt>
+    <trkpt lat="50.794853" lon="-1.070172">
+        <ele>46.0</ele>
+        <time>2021-02-22T13:28:43.240Z</time>
+    </trkpt>
+    <trkpt lat="50.794773" lon="-1.070289">
+        <ele>45.0</ele>
+        <time>2021-02-22T13:28:54.110Z</time>
+    </trkpt>
+    <trkpt lat="50.79457" lon="-1.070063">
+        <ele>48.0</ele>
+        <time>2021-02-22T13:29:18.920Z</time>
+    </trkpt>
+    <trkpt lat="50.79453" lon="-1.0701">
+        <ele>47.0</ele>
+        <time>2021-02-22T13:29:23.570Z</time>
+    </trkpt>
+    <trkpt lat="50.79434" lon="-1.070057">
+        <ele>51.0</ele>
+        <time>2021-02-22T13:29:42.770Z</time>
+    </trkpt>
+    <trkpt lat="50.794197" lon="-1.069937">
+        <ele>53.0</ele>
+        <time>2021-02-22T13:29:58.970Z</time>
+    </trkpt>
+    <trkpt lat="50.79384" lon="-1.069954">
+        <ele>49.0</ele>
+        <time>2021-02-22T13:30:34.690Z</time>
+    </trkpt>
+    <trkpt lat="50.793797" lon="-1.069982">
+        <ele>47.0</ele>
+        <time>2021-02-22T13:30:39.330Z</time>
+    </trkpt>
+    <trkpt lat="50.793938" lon="-1.070719">
+        <ele>46.0</ele>
+        <time>2021-02-22T13:31:28.030Z</time>
+    </trkpt>
+    <trkpt lat="50.794003" lon="-1.070793">
+        <ele>41.0</ele>
+        <time>2021-02-22T13:33:04.230Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 <trk>
-	<name>20201102_143231.gpx 48</name>
-	<desc>Length: 2.255 m (7.398 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795715" lon="-1.036842">
-			<ele>37.00</ele>
-			<time>2021-02-22T12:17:04.02Z</time>
-		</trkpt>
-		<trkpt lat="50.795730" lon="-1.036864">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:17:06.05Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#48</gte:name>
-			<gte:color>#ff1919</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 49</name>
-	<desc>Length: 90.01 m (295.3 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795730" lon="-1.036864">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:17:06.95Z</time>
-		</trkpt>
-		<trkpt lat="50.795770" lon="-1.036953">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:17:13.87Z</time>
-		</trkpt>
-		<trkpt lat="50.795742" lon="-1.037117">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:17:24.60Z</time>
-		</trkpt>
-		<trkpt lat="50.795826" lon="-1.037400">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:17:44.39Z</time>
-		</trkpt>
-		<trkpt lat="50.795820" lon="-1.037636">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:17:59.29Z</time>
-		</trkpt>
-		<trkpt lat="50.795850" lon="-1.037944">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:18:19Z</time>
-		</trkpt>
-		<trkpt lat="50.795890" lon="-1.037994">
-			<ele>39.00</ele>
-			<time>2021-02-22T12:18:24.09Z</time>
-		</trkpt>
-		<trkpt lat="50.795890" lon="-1.038054">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:18:27.90Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#49</gte:name>
-			<gte:color>#0ba40b</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 50</name>
-	<desc>Length: 72.72 m (238.6 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795890" lon="-1.038054">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:18:28.80Z</time>
-		</trkpt>
-		<trkpt lat="50.795944" lon="-1.038291">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:18:44.72Z</time>
-		</trkpt>
-		<trkpt lat="50.796127" lon="-1.038361">
-			<ele>42.00</ele>
-			<time>2021-02-22T12:19:03.55Z</time>
-		</trkpt>
-		<trkpt lat="50.796350" lon="-1.038531">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:19:28.30Z</time>
-		</trkpt>
-		<trkpt lat="50.796370" lon="-1.038610">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:19:33.69Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#50</gte:name>
-			<gte:color>#ff49ff</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 51</name>
-	<desc>Length: 15.1 m (49.54 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.796375" lon="-1.038612">
-			<ele>41.00</ele>
-			<time>2021-02-22T12:19:35.49Z</time>
-		</trkpt>
-		<trkpt lat="50.796417" lon="-1.038564">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:19:40.68Z</time>
-		</trkpt>
-		<trkpt lat="50.796500" lon="-1.038545">
-			<ele>46.00</ele>
-			<time>2021-02-22T12:19:49.07Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#51</gte:name>
-			<gte:color>#be5800</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 52</name>
-	<desc>Length: 2.515 km (1.563 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.796500" lon="-1.038545">
-			<ele>46.00</ele>
-			<time>2021-02-22T12:19:49.97Z</time>
-		</trkpt>
-		<trkpt lat="50.796550" lon="-1.038519">
-			<ele>48.00</ele>
-			<time>2021-02-22T12:19:55.22Z</time>
-		</trkpt>
-		<trkpt lat="50.796776" lon="-1.038684">
-			<ele>45.00</ele>
-			<time>2021-02-22T12:20:20.09Z</time>
-		</trkpt>
-		<trkpt lat="50.797062" lon="-1.038736">
-			<ele>45.00</ele>
-			<time>2021-02-22T12:20:48.89Z</time>
-		</trkpt>
-		<trkpt lat="50.797108" lon="-1.038716">
-			<ele>45.00</ele>
-			<time>2021-02-22T12:20:53.65Z</time>
-		</trkpt>
-		<trkpt lat="50.797780" lon="-1.038994">
-			<ele>49.00</ele>
-			<time>2021-02-22T12:22:03.11Z</time>
-		</trkpt>
-		<trkpt lat="50.798203" lon="-1.039210">
-			<ele>48.00</ele>
-			<time>2021-02-22T12:22:47.56Z</time>
-		</trkpt>
-		<trkpt lat="50.798702" lon="-1.039517">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:23:41.05Z</time>
-		</trkpt>
-		<trkpt lat="50.798807" lon="-1.040048">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:24:16.22Z</time>
-		</trkpt>
-		<trkpt lat="50.798852" lon="-1.040327">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:24:34.44Z</time>
-		</trkpt>
-		<trkpt lat="50.798859" lon="-1.040611">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:24:52.42Z</time>
-		</trkpt>
-		<trkpt lat="50.798871" lon="-1.041907">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:26:14.31Z</time>
-		</trkpt>
-		<trkpt lat="50.799029" lon="-1.041974">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:26:30.64Z</time>
-		</trkpt>
-		<trkpt lat="50.799305" lon="-1.041950">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:26:58.31Z</time>
-		</trkpt>
-		<trkpt lat="50.799290" lon="-1.042215">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:27:15.16Z</time>
-		</trkpt>
-		<trkpt lat="50.799125" lon="-1.042258">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:27:31.83Z</time>
-		</trkpt>
-		<trkpt lat="50.799090" lon="-1.042883">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:28:11.50Z</time>
-		</trkpt>
-		<trkpt lat="50.799081" lon="-1.043328">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:28:39.65Z</time>
-		</trkpt>
-		<trkpt lat="50.799095" lon="-1.043889">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:29:15.10Z</time>
-		</trkpt>
-		<trkpt lat="50.799164" lon="-1.044208">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:29:36.44Z</time>
-		</trkpt>
-		<trkpt lat="50.799366" lon="-1.044227">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:29:56.66Z</time>
-		</trkpt>
-		<trkpt lat="50.799368" lon="-1.044565">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:30:18.02Z</time>
-		</trkpt>
-		<trkpt lat="50.799356" lon="-1.044914">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:30:40.09Z</time>
-		</trkpt>
-		<trkpt lat="50.799349" lon="-1.045034">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:30:47.75Z</time>
-		</trkpt>
-		<trkpt lat="50.799232" lon="-1.045133">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:31:01.02Z</time>
-		</trkpt>
-		<trkpt lat="50.799154" lon="-1.045439">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:31:21.86Z</time>
-		</trkpt>
-		<trkpt lat="50.799147" lon="-1.045788">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:31:43.90Z</time>
-		</trkpt>
-		<trkpt lat="50.799110" lon="-1.045943">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:31:54.42Z</time>
-		</trkpt>
-		<trkpt lat="50.799002" lon="-1.046062">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:32:07.59Z</time>
-		</trkpt>
-		<trkpt lat="50.798795" lon="-1.045777">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:32:34.99Z</time>
-		</trkpt>
-		<trkpt lat="50.798534" lon="-1.045627">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:33:02.77Z</time>
-		</trkpt>
-		<trkpt lat="50.798279" lon="-1.045654">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:33:28.25Z</time>
-		</trkpt>
-		<trkpt lat="50.798157" lon="-1.045992">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:33:52.86Z</time>
-		</trkpt>
-		<trkpt lat="50.798161" lon="-1.046340">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:34:14.90Z</time>
-		</trkpt>
-		<trkpt lat="50.798137" lon="-1.046646">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:34:34.37Z</time>
-		</trkpt>
-		<trkpt lat="50.798266" lon="-1.046678">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:34:47.41Z</time>
-		</trkpt>
-		<trkpt lat="50.798344" lon="-1.046464">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:35:03.06Z</time>
-		</trkpt>
-		<trkpt lat="50.798408" lon="-1.046131">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:35:25.04Z</time>
-		</trkpt>
-		<trkpt lat="50.798496" lon="-1.045826">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:35:46.28Z</time>
-		</trkpt>
-		<trkpt lat="50.798612" lon="-1.045632">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:36:03.07Z</time>
-		</trkpt>
-		<trkpt lat="50.798764" lon="-1.045675">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:36:18.56Z</time>
-		</trkpt>
-		<trkpt lat="50.798991" lon="-1.046115">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:36:54.47Z</time>
-		</trkpt>
-		<trkpt lat="50.798873" lon="-1.046475">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:37:20.10Z</time>
-		</trkpt>
-		<trkpt lat="50.798869" lon="-1.047033">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:37:55.36Z</time>
-		</trkpt>
-		<trkpt lat="50.798703" lon="-1.047263">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:38:29.41Z</time>
-		</trkpt>
-		<trkpt lat="50.798622" lon="-1.047446">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:38:43.53Z</time>
-		</trkpt>
-		<trkpt lat="50.798608" lon="-1.048003">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:39:18.81Z</time>
-		</trkpt>
-		<trkpt lat="50.798534" lon="-1.048417">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:39:45.97Z</time>
-		</trkpt>
-		<trkpt lat="50.798496" lon="-1.048792">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:40:09.99Z</time>
-		</trkpt>
-		<trkpt lat="50.798462" lon="-1.049194">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:40:35.65Z</time>
-		</trkpt>
-		<trkpt lat="50.798374" lon="-1.049227">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:40:44.70Z</time>
-		</trkpt>
-		<trkpt lat="50.798354" lon="-1.049409">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:40:56.40Z</time>
-		</trkpt>
-		<trkpt lat="50.798422" lon="-1.049511">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:41:05.76Z</time>
-		</trkpt>
-		<trkpt lat="50.798456" lon="-1.049511">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:41:09.15Z</time>
-		</trkpt>
-		<trkpt lat="50.798544" lon="-1.050021">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:41:42.55Z</time>
-		</trkpt>
-		<trkpt lat="50.798693" lon="-1.050476">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:42:14.99Z</time>
-		</trkpt>
-		<trkpt lat="50.798886" lon="-1.050712">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:42:39.41Z</time>
-		</trkpt>
-		<trkpt lat="50.799086" lon="-1.050922">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:43:03.39Z</time>
-		</trkpt>
-		<trkpt lat="50.798835" lon="-1.051592">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:43:52.64Z</time>
-		</trkpt>
-		<trkpt lat="50.798632" lon="-1.052274">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:44:40.26Z</time>
-		</trkpt>
-		<trkpt lat="50.798486" lon="-1.052612">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:45:06.12Z</time>
-		</trkpt>
-		<trkpt lat="50.798347" lon="-1.053137">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:45:42.14Z</time>
-		</trkpt>
-		<trkpt lat="50.798249" lon="-1.053180">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:45:52.34Z</time>
-		</trkpt>
-		<trkpt lat="50.797920" lon="-1.053116">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:46:25.48Z</time>
-		</trkpt>
-		<trkpt lat="50.797632" lon="-1.053046">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:46:54.63Z</time>
-		</trkpt>
-		<trkpt lat="50.797469" lon="-1.053014">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:47:11.04Z</time>
-		</trkpt>
-		<trkpt lat="50.797147" lon="-1.052939">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:47:43.60Z</time>
-		</trkpt>
-		<trkpt lat="50.796750" lon="-1.052821">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:48:23.96Z</time>
-		</trkpt>
-		<trkpt lat="50.796381" lon="-1.052756">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:49:01.15Z</time>
-		</trkpt>
-		<trkpt lat="50.796059" lon="-1.052687">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:49:33.66Z</time>
-		</trkpt>
-		<trkpt lat="50.795957" lon="-1.053432">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:50:21.87Z</time>
-		</trkpt>
-		<trkpt lat="50.795906" lon="-1.054237">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:51:12.99Z</time>
-		</trkpt>
-		<trkpt lat="50.795794" lon="-1.055052">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:52:05.73Z</time>
-		</trkpt>
-		<trkpt lat="50.795726" lon="-1.055691">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:52:46.64Z</time>
-		</trkpt>
-		<trkpt lat="50.795675" lon="-1.056265">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:53:23.28Z</time>
-		</trkpt>
-		<trkpt lat="50.795645" lon="-1.056324">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:53:28.09Z</time>
-		</trkpt>
-		<trkpt lat="50.795458" lon="-1.056329">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:53:46.75Z</time>
-		</trkpt>
-		<trkpt lat="50.795184" lon="-1.056206">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:54:15.29Z</time>
-		</trkpt>
-		<trkpt lat="50.795092" lon="-1.056227">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:54:24.55Z</time>
-		</trkpt>
-		<trkpt lat="50.795011" lon="-1.056796">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:55:01.41Z</time>
-		</trkpt>
-		<trkpt lat="50.794926" lon="-1.057563">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:55:50.63Z</time>
-		</trkpt>
-		<trkpt lat="50.794896" lon="-1.058233">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:56:33.13Z</time>
-		</trkpt>
-		<trkpt lat="50.794831" lon="-1.058748">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:57:06.31Z</time>
-		</trkpt>
-		<trkpt lat="50.794611" lon="-1.058952">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:57:31.84Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#52</gte:name>
-			<gte:color>#9e9eff</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 56</name>
-	<desc>Length: 0.299 km (0.186 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.794605" lon="-1.058951">
-			<ele>54.00</ele>
-			<time>2021-02-22T12:57:32.74Z</time>
-		</trkpt>
-		<trkpt lat="50.794210" lon="-1.059145">
-			<ele>49.00</ele>
-			<time>2021-02-22T12:58:14.10Z</time>
-		</trkpt>
-		<trkpt lat="50.794212" lon="-1.059464">
-			<ele>47.00</ele>
-			<time>2021-02-22T12:58:34.27Z</time>
-		</trkpt>
-		<trkpt lat="50.794300" lon="-1.059740">
-			<ele>46.00</ele>
-			<time>2021-02-22T12:58:53.79Z</time>
-		</trkpt>
-		<trkpt lat="50.794340" lon="-1.059962">
-			<ele>44.00</ele>
-			<time>2021-02-22T12:59:08.37Z</time>
-		</trkpt>
-		<trkpt lat="50.794400" lon="-1.060611">
-			<ele>43.00</ele>
-			<time>2021-02-22T12:59:49.83Z</time>
-		</trkpt>
-		<trkpt lat="50.794357" lon="-1.060656">
-			<ele>40.00</ele>
-			<time>2021-02-22T12:59:55Z</time>
-		</trkpt>
-		<trkpt lat="50.793920" lon="-1.060860">
-			<ele>39.00</ele>
-			<time>2021-02-22T13:00:40.56Z</time>
-		</trkpt>
-		<trkpt lat="50.793922" lon="-1.061349">
-			<ele>43.00</ele>
-			<time>2021-02-22T13:01:11.43Z</time>
-		</trkpt>
-		<trkpt lat="50.793964" lon="-1.061501">
-			<ele>44.00</ele>
-			<time>2021-02-22T13:01:21.91Z</time>
-		</trkpt>
-		<trkpt lat="50.793995" lon="-1.062061">
-			<ele>44.00</ele>
-			<time>2021-02-22T13:01:57.50Z</time>
-		</trkpt>
-		<trkpt lat="50.794020" lon="-1.062106">
-			<ele>44.00</ele>
-			<time>2021-02-22T13:02:01.27Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#53</gte:name>
-			<gte:color>#86ff86</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 57</name>
-	<desc>Length: 0.311 km (0.193 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.794020" lon="-1.062106">
-			<ele>44.00</ele>
-			<time>2021-02-22T13:02:02.17Z</time>
-		</trkpt>
-		<trkpt lat="50.794075" lon="-1.062287">
-			<ele>45.00</ele>
-			<time>2021-02-22T13:02:14.86Z</time>
-		</trkpt>
-		<trkpt lat="50.794018" lon="-1.062402">
-			<ele>43.00</ele>
-			<time>2021-02-22T13:02:24.07Z</time>
-		</trkpt>
-		<trkpt lat="50.794178" lon="-1.062819">
-			<ele>44.00</ele>
-			<time>2021-02-22T13:02:54.95Z</time>
-		</trkpt>
-		<trkpt lat="50.794327" lon="-1.063616">
-			<ele>49.00</ele>
-			<time>2021-02-22T13:03:47.45Z</time>
-		</trkpt>
-		<trkpt lat="50.794422" lon="-1.063889">
-			<ele>49.00</ele>
-			<time>2021-02-22T13:04:07.19Z</time>
-		</trkpt>
-		<trkpt lat="50.794495" lon="-1.064438">
-			<ele>47.00</ele>
-			<time>2021-02-22T13:04:42.62Z</time>
-		</trkpt>
-		<trkpt lat="50.794495" lon="-1.064610">
-			<ele>49.00</ele>
-			<time>2021-02-22T13:04:53.53Z</time>
-		</trkpt>
-		<trkpt lat="50.794563" lon="-1.065011">
-			<ele>50.00</ele>
-			<time>2021-02-22T13:05:19.73Z</time>
-		</trkpt>
-		<trkpt lat="50.794605" lon="-1.065055">
-			<ele>52.00</ele>
-			<time>2021-02-22T13:05:24.77Z</time>
-		</trkpt>
-		<trkpt lat="50.795000" lon="-1.064902">
-			<ele>52.00</ele>
-			<time>2021-02-22T13:06:05.43Z</time>
-		</trkpt>
-		<trkpt lat="50.795090" lon="-1.064817">
-			<ele>53.00</ele>
-			<time>2021-02-22T13:06:15.91Z</time>
-		</trkpt>
-		<trkpt lat="50.795353" lon="-1.064805">
-			<ele>55.00</ele>
-			<time>2021-02-22T13:06:42.22Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#54</gte:name>
-			<gte:color>#95ae2f</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 58</name>
-	<desc>Length: 105.4 m (345.8 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795353" lon="-1.064805">
-			<ele>55.00</ele>
-			<time>2021-02-22T13:06:43.12Z</time>
-		</trkpt>
-		<trkpt lat="50.795610" lon="-1.064709">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:07:09.53Z</time>
-		</trkpt>
-		<trkpt lat="50.795753" lon="-1.064756">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:07:24.15Z</time>
-		</trkpt>
-		<trkpt lat="50.795750" lon="-1.064829">
-			<ele>55.00</ele>
-			<time>2021-02-22T13:07:28.76Z</time>
-		</trkpt>
-		<trkpt lat="50.795795" lon="-1.064871">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:07:33.98Z</time>
-		</trkpt>
-		<trkpt lat="50.795975" lon="-1.064916">
-			<ele>53.00</ele>
-			<time>2021-02-22T13:07:52.20Z</time>
-		</trkpt>
-		<trkpt lat="50.796024" lon="-1.064963">
-			<ele>51.00</ele>
-			<time>2021-02-22T13:07:57.92Z</time>
-		</trkpt>
-		<trkpt lat="50.795933" lon="-1.065244">
-			<ele>52.00</ele>
-			<time>2021-02-22T13:08:17.89Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#55</gte:name>
-			<gte:color>#42c2a8</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 59</name>
-	<desc>Length: 163.3 m (535.8 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.795933" lon="-1.065244">
-			<ele>52.00</ele>
-			<time>2021-02-22T13:08:18.79Z</time>
-		</trkpt>
-		<trkpt lat="50.796043" lon="-1.066343">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:09:29.13Z</time>
-		</trkpt>
-		<trkpt lat="50.796158" lon="-1.066686">
-			<ele>57.00</ele>
-			<time>2021-02-22T13:09:53.67Z</time>
-		</trkpt>
-		<trkpt lat="50.796238" lon="-1.066787">
-			<ele>59.00</ele>
-			<time>2021-02-22T13:10:03.91Z</time>
-		</trkpt>
-		<trkpt lat="50.796330" lon="-1.066808">
-			<ele>57.00</ele>
-			<time>2021-02-22T13:10:13.21Z</time>
-		</trkpt>
-		<trkpt lat="50.796345" lon="-1.066744">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:10:35.07Z</time>
-		</trkpt>
-		<trkpt lat="50.796400" lon="-1.066601">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:10:45.65Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#56</gte:name>
-			<gte:color>#efd973</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 60</name>
-	<desc>Length: 178.3 m (585 ft)</desc>
-	<trkseg>
-		<trkpt lat="50.796963" lon="-1.066807">
-			<ele>130.00</ele>
-			<time>2021-02-22T13:11:43.43Z</time>
-		</trkpt>
-		<trkpt lat="50.796990" lon="-1.066910">
-			<ele>125.00</ele>
-			<time>2021-02-22T13:11:50.51Z</time>
-		</trkpt>
-		<trkpt lat="50.796986" lon="-1.066985">
-			<ele>127.00</ele>
-			<time>2021-02-22T13:11:55.24Z</time>
-		</trkpt>
-		<trkpt lat="50.796900" lon="-1.067177">
-			<ele>145.00</ele>
-			<time>2021-02-22T13:12:10.10Z</time>
-		</trkpt>
-		<trkpt lat="50.796890" lon="-1.067285">
-			<ele>147.00</ele>
-			<time>2021-02-22T13:12:16.99Z</time>
-		</trkpt>
-		<trkpt lat="50.796913" lon="-1.067390">
-			<ele>150.00</ele>
-			<time>2021-02-22T13:12:24.03Z</time>
-		</trkpt>
-		<trkpt lat="50.796917" lon="-1.067647">
-			<ele>134.00</ele>
-			<time>2021-02-22T13:12:40.27Z</time>
-		</trkpt>
-		<trkpt lat="50.796986" lon="-1.067893">
-			<ele>134.00</ele>
-			<time>2021-02-22T13:12:57.30Z</time>
-		</trkpt>
-		<trkpt lat="50.797066" lon="-1.067821">
-			<ele>125.00</ele>
-			<time>2021-02-22T13:13:06.49Z</time>
-		</trkpt>
-		<trkpt lat="50.797080" lon="-1.067751">
-			<ele>112.00</ele>
-			<time>2021-02-22T13:13:11.13Z</time>
-		</trkpt>
-		<trkpt lat="50.797188" lon="-1.067655">
-			<ele>98.00</ele>
-			<time>2021-02-22T13:13:23.53Z</time>
-		</trkpt>
-		<trkpt lat="50.797256" lon="-1.067493">
-			<ele>76.00</ele>
-			<time>2021-02-22T13:13:35.80Z</time>
-		</trkpt>
-		<trkpt lat="50.797237" lon="-1.067092">
-			<ele>26.00</ele>
-			<time>2021-02-22T13:14:01.22Z</time>
-		</trkpt>
-		<trkpt lat="50.797184" lon="-1.066969">
-			<ele>24.00</ele>
-			<time>2021-02-22T13:14:10.64Z</time>
-		</trkpt>
-		<trkpt lat="50.797245" lon="-1.066855">
-			<ele>7.00</ele>
-			<time>2021-02-22T13:14:20.06Z</time>
-		</trkpt>
-		<trkpt lat="50.797240" lon="-1.066797">
-			<ele>3.00</ele>
-			<time>2021-02-22T13:14:23.76Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#57</gte:name>
-			<gte:color>#fc00fc</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 61</name>
-	<desc>Length: 1.228 km (0.763 mi)</desc>
-	<trkseg>
-		<trkpt lat="50.797176" lon="-1.066565">
-			<ele>5.00</ele>
-			<time>2021-02-22T13:14:39.78Z</time>
-		</trkpt>
-		<trkpt lat="50.797165" lon="-1.066479">
-			<ele>13.00</ele>
-			<time>2021-02-22T13:14:45.35Z</time>
-		</trkpt>
-		<trkpt lat="50.797080" lon="-1.066323">
-			<ele>29.00</ele>
-			<time>2021-02-22T13:15:18.84Z</time>
-		</trkpt>
-		<trkpt lat="50.797030" lon="-1.066332">
-			<ele>32.00</ele>
-			<time>2021-02-22T13:15:23.87Z</time>
-		</trkpt>
-		<trkpt lat="50.796932" lon="-1.066286">
-			<ele>42.00</ele>
-			<time>2021-02-22T13:17:37.77Z</time>
-		</trkpt>
-		<trkpt lat="50.796886" lon="-1.066297">
-			<ele>41.00</ele>
-			<time>2021-02-22T13:17:42.43Z</time>
-		</trkpt>
-		<trkpt lat="50.796830" lon="-1.066396">
-			<ele>42.00</ele>
-			<time>2021-02-22T13:18:08.14Z</time>
-		</trkpt>
-		<trkpt lat="50.796833" lon="-1.066416">
-			<ele>40.00</ele>
-			<time>2021-02-22T13:18:20.04Z</time>
-		</trkpt>
-		<trkpt lat="50.796844" lon="-1.066482">
-			<ele>28.00</ele>
-			<time>2021-02-22T13:21:05.41Z</time>
-		</trkpt>
-		<trkpt lat="50.796890" lon="-1.066605">
-			<ele>28.00</ele>
-			<time>2021-02-22T13:21:31.98Z</time>
-		</trkpt>
-		<trkpt lat="50.796886" lon="-1.066917">
-			<ele>28.00</ele>
-			<time>2021-02-22T13:21:51.71Z</time>
-		</trkpt>
-		<trkpt lat="50.796513" lon="-1.066892">
-			<ele>28.00</ele>
-			<time>2021-02-22T13:22:29.04Z</time>
-		</trkpt>
-		<trkpt lat="50.796314" lon="-1.066771">
-			<ele>32.00</ele>
-			<time>2021-02-22T13:22:50.36Z</time>
-		</trkpt>
-		<trkpt lat="50.796280" lon="-1.066718">
-			<ele>34.00</ele>
-			<time>2021-02-22T13:22:55.16Z</time>
-		</trkpt>
-		<trkpt lat="50.796100" lon="-1.066604">
-			<ele>39.00</ele>
-			<time>2021-02-22T13:23:14.54Z</time>
-		</trkpt>
-		<trkpt lat="50.795998" lon="-1.066599">
-			<ele>39.00</ele>
-			<time>2021-02-22T13:23:24.74Z</time>
-		</trkpt>
-		<trkpt lat="50.795807" lon="-1.066754">
-			<ele>38.00</ele>
-			<time>2021-02-22T13:23:46.21Z</time>
-		</trkpt>
-		<trkpt lat="50.795670" lon="-1.066805">
-			<ele>38.00</ele>
-			<time>2021-02-22T13:24:00.28Z</time>
-		</trkpt>
-		<trkpt lat="50.795630" lon="-1.066887">
-			<ele>40.00</ele>
-			<time>2021-02-22T13:24:06.79Z</time>
-		</trkpt>
-		<trkpt lat="50.795628" lon="-1.067052">
-			<ele>45.00</ele>
-			<time>2021-02-22T13:24:17.25Z</time>
-		</trkpt>
-		<trkpt lat="50.795590" lon="-1.067111">
-			<ele>46.00</ele>
-			<time>2021-02-22T13:24:22.56Z</time>
-		</trkpt>
-		<trkpt lat="50.795403" lon="-1.067209">
-			<ele>46.00</ele>
-			<time>2021-02-22T13:24:42.27Z</time>
-		</trkpt>
-		<trkpt lat="50.795250" lon="-1.067228">
-			<ele>45.00</ele>
-			<time>2021-02-22T13:24:57.61Z</time>
-		</trkpt>
-		<trkpt lat="50.795010" lon="-1.067381">
-			<ele>39.00</ele>
-			<time>2021-02-22T13:25:23.49Z</time>
-		</trkpt>
-		<trkpt lat="50.794903" lon="-1.067651">
-			<ele>42.00</ele>
-			<time>2021-02-22T13:25:43.63Z</time>
-		</trkpt>
-		<trkpt lat="50.794857" lon="-1.068158">
-			<ele>47.00</ele>
-			<time>2021-02-22T13:26:16.01Z</time>
-		</trkpt>
-		<trkpt lat="50.794770" lon="-1.068216">
-			<ele>47.00</ele>
-			<time>2021-02-22T13:26:25.46Z</time>
-		</trkpt>
-		<trkpt lat="50.794754" lon="-1.068296">
-			<ele>48.00</ele>
-			<time>2021-02-22T13:26:30.77Z</time>
-		</trkpt>
-		<trkpt lat="50.794785" lon="-1.068687">
-			<ele>50.00</ele>
-			<time>2021-02-22T13:26:55.66Z</time>
-		</trkpt>
-		<trkpt lat="50.794872" lon="-1.069076">
-			<ele>51.00</ele>
-			<time>2021-02-22T13:27:21.76Z</time>
-		</trkpt>
-		<trkpt lat="50.794970" lon="-1.069781">
-			<ele>54.00</ele>
-			<time>2021-02-22T13:28:07.38Z</time>
-		</trkpt>
-		<trkpt lat="50.794990" lon="-1.070115">
-			<ele>52.00</ele>
-			<time>2021-02-22T13:28:28.55Z</time>
-		</trkpt>
-		<trkpt lat="50.794952" lon="-1.070160">
-			<ele>51.00</ele>
-			<time>2021-02-22T13:28:33.31Z</time>
-		</trkpt>
-		<trkpt lat="50.794853" lon="-1.070172">
-			<ele>46.00</ele>
-			<time>2021-02-22T13:28:43.24Z</time>
-		</trkpt>
-		<trkpt lat="50.794773" lon="-1.070289">
-			<ele>45.00</ele>
-			<time>2021-02-22T13:28:54.11Z</time>
-		</trkpt>
-		<trkpt lat="50.794570" lon="-1.070063">
-			<ele>48.00</ele>
-			<time>2021-02-22T13:29:18.92Z</time>
-		</trkpt>
-		<trkpt lat="50.794530" lon="-1.070100">
-			<ele>47.00</ele>
-			<time>2021-02-22T13:29:23.57Z</time>
-		</trkpt>
-		<trkpt lat="50.794340" lon="-1.070057">
-			<ele>51.00</ele>
-			<time>2021-02-22T13:29:42.77Z</time>
-		</trkpt>
-		<trkpt lat="50.794197" lon="-1.069937">
-			<ele>53.00</ele>
-			<time>2021-02-22T13:29:58.97Z</time>
-		</trkpt>
-		<trkpt lat="50.793840" lon="-1.069954">
-			<ele>49.00</ele>
-			<time>2021-02-22T13:30:34.69Z</time>
-		</trkpt>
-		<trkpt lat="50.793797" lon="-1.069982">
-			<ele>47.00</ele>
-			<time>2021-02-22T13:30:39.33Z</time>
-		</trkpt>
-		<trkpt lat="50.793938" lon="-1.070719">
-			<ele>46.00</ele>
-			<time>2021-02-22T13:31:28.03Z</time>
-		</trkpt>
-		<trkpt lat="50.794003" lon="-1.070793">
-			<ele>41.00</ele>
-			<time>2021-02-22T13:33:04.23Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#58</gte:name>
-			<gte:color>#00bd57</gte:color>
-		</extensions>
-	</trkseg>
-</trk>
-<trk>
-	<name>20201102_143231.gpx 62</name>
-	<trkseg>
-		<trkpt lat="50.794003" lon="-1.070793">
-			<ele>41.00</ele>
-			<time>2021-02-22T13:33:05.13Z</time>
-		</trkpt>
-		<extensions>
-			<gte:name>#59</gte:name>
-			<gte:color>#d13838</gte:color>
-		</extensions>
-	</trkseg>
+    <name>20201102_143231.gpx 62</name>
+    <type>Cycling</type>
+    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>0.7</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
+    <trkseg>
+    <trkpt lat="50.794003" lon="-1.070793">
+        <ele>41.0</ele>
+        <time>2021-02-22T13:33:05.130Z</time>
+    </trkpt>
+    </trkseg>
 </trk>
 </gpx>
