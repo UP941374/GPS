@@ -6,6 +6,13 @@
 <trk>
 	<name>20201102_143231.gpx 1</name>
 	<desc>Length: 0.226 km (0.14 mi)</desc>
+	    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
 	<trkseg>
 		<trkpt lat="50.793808" lon="-1.070912">
 			<ele>64.00</ele>

@@ -3,6 +3,13 @@
   <metadate>2020-10-24T14:34:00Z</metadate>
   <trk>
     <name>20201024_153359.gpx</name>
+        <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
     <trkseg>
       <trkpt lat="50.794018" lon="-1.0714301">
         <ele>76.0</ele>

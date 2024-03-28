@@ -3,6 +3,13 @@
 	<trk>
 		<name>20210224_151116.gpx</name>
 		<desc>Length: 7.027 km (4.366 mi)</desc>
+		    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
 		<trkseg>
 			<trkpt lat="50.794308" lon="-1.0719775"><ele>40</ele></trkpt>
 			<trkpt lat="50.79425" lon="-1.0722902"><ele>51</ele></trkpt>

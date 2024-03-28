@@ -12,9 +12,9 @@
     <type>Running</type>
     <extensions>
         <gpx_style:line>
-        <color>0011ff</color>
-        <opacity>0.7</opacity>
-        <weight>3</weight>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
         </gpx_style:line>
     </extensions>
     <trkseg>

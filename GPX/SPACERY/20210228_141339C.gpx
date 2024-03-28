@@ -5,6 +5,13 @@
 </metadata>
 <trk>
 	<name>20210228_141339.gpx</name>
+	    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
 	<trkseg>
 		<trkpt lat="50.791073" lon="-1.029980">
 			<ele>52.00</ele>

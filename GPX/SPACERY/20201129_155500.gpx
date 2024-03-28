@@ -6,6 +6,13 @@
 <trk>
 	<name>29 November 2020</name>
 	<desc>Length: 4.112 km (2.555 mi)</desc>
+	    <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
 	<trkseg>
 		<trkpt lat="50.876415" lon="-1.011890">
 			<ele>50</ele>

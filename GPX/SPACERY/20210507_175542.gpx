@@ -3,6 +3,13 @@
   <metadate>2021-05-07T16:55:44Z</metadate>
   <trk>
     <name>20210507_175542.gpx</name>
+        <extensions>
+        <gpx_style:line>
+        <color>0000ff</color>
+        <opacity>1</opacity>
+        <weight>5</weight>
+        </gpx_style:line>
+    </extensions>
     <trkseg>
       <trkpt lat="50.79415" lon="-1.0724531">
         <ele>51.0</ele>
