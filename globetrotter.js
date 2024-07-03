@@ -1,7 +1,7 @@
 let map = document.querySelector("#map");
 
 let files = [
-  "UKRAINE2019.gpx"
+  "UKRAINE2019.gpx","ALBANIA2017.gpx"
 ];
 
 
